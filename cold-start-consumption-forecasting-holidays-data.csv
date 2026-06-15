@@ -1,0 +1,3288 @@
+﻿obs_id;site_id;holiday;date
+20;20;Confederate Heroes Day;2017-01-19
+32;20;Texas Independence Day (Observed);2014-03-03
+47;20;New year;2015-01-01
+112;34;Memorial Day;2015-05-25
+122;34;Birthday of Martin Luther King, Jr.;2017-01-16
+143;42;Assumption of Mary to Heaven;2017-08-15
+149;42;Ascension Thursday;2015-05-14
+165;42;Armistice Day;2017-11-11
+197;48;Assumption of Mary to Heaven;2014-08-15
+242;49;Immaculate Conception;2017-12-08
+244;49;St Stephen's Day;2014-12-26
+260;88;New year;2015-01-01
+295;59;Victory in Europe Day;2017-05-08
+303;59;Labour Day;2014-05-01
+317;59;Easter Monday;2016-03-28
+328;59;Assumption of Mary to Heaven;2014-08-15
+360;91;Whit Monday;2016-05-16
+404;60;All Saints Day;2015-11-01
+418;61;Epiphany;2017-01-06
+421;61;All Saints Day;2016-11-01
+437;61;Christmas Day;2017-12-25
+439;62;Immaculate Conception;2017-12-08
+471;63;Immaculate Conception;2015-12-08
+479;63;International Workers' Day;2015-05-01
+480;63;All Saints Day;2016-11-01
+487;63;Christmas Day;2016-12-25
+498;64;Easter Monday;2015-04-06
+519;64;Epiphany;2015-01-06
+525;64;New year;2017-01-01
+531;65;International Workers' Day;2016-05-01
+538;65;Republic Day;2015-06-02
+548;65;New year;2015-01-01
+554;65;Easter Monday;2016-03-28
+557;65;Christmas Day;2016-12-25
+559;66;Liberation Day;2016-04-25
+581;68;International Workers' Day;2016-05-01
+640;69;Republic Day;2016-06-02
+648;86;Christmas Day;2017-12-25
+695;70;Liberation Day;2016-04-25
+735;71;St Stephen's Day;2015-12-26
+738;71;Liberation Day;2017-04-25
+754;72;Dia da Liberdade;2016-04-25
+774;72;Dia de Portugal;2016-06-10
+796;73;Epiphany;2017-01-06
+813;74;Easter Monday;2016-03-28
+895;75;All Saints Day;2016-11-01
+902;76;Liberation Day;2016-04-25
+905;76;New year;2016-01-01
+928;76;Immaculate Conception;2015-12-08
+957;77;Immaculate Conception;2016-12-08
+967;90;International Workers' Day;2014-05-01
+987;90;Assumption of Mary to Heaven;2015-08-15
+1011;87;New year;2017-01-01
+1031;87;Assumption of Mary to Heaven;2015-08-15
+1073;1;International Workers' Day;2016-05-01
+1077;1;St Stephen's Day;2015-12-26
+1088;2;New year;2014-01-01
+1110;3;New year;2016-01-01
+1134;3;Liberation Day;2015-04-25
+1136;3;St Stephen's Day;2016-12-26
+1147;4;Epiphany;2015-01-06
+1166;4;New year;2016-01-01
+1168;4;St Stephen's Day;2016-12-26
+1188;81;St Stephen's Day;2016-12-26
+1199;81;Easter Monday;2014-04-21
+1201;81;Epiphany;2016-01-06
+1219;5;Christmas Day;2017-12-25
+1220;5;New year;2015-01-01
+1240;5;Liberation Day;2015-04-25
+1243;5;Liberation Day;2017-04-25
+1254;6;New year;2017-01-01
+1263;6;Epiphany;2016-01-06
+1270;6;Easter Monday;2015-04-06
+1300;83;Epiphany;2015-01-06
+1316;79;St Stephen's Day;2017-12-26
+1354;79;Easter Monday;2016-03-28
+1358;79;New year;2015-01-01
+1368;8;Assumption of Mary to Heaven;2016-08-15
+1371;8;International Workers' Day;2016-05-01
+1429;9;International Workers' Day;2016-05-01
+1467;10;St Stephen's Day;2014-12-26
+1473;10;Republic Day;2015-06-02
+1506;12;Republic Day;2017-06-02
+1514;12;Republic Day;2016-06-02
+1524;13;Liberation Day;2016-04-25
+1534;13;Immaculate Conception;2017-12-08
+1546;13;Liberation Day;2014-04-25
+1551;13;Epiphany;2017-01-06
+1583;14;Republic Day;2016-06-02
+1588;14;Christmas Day;2016-12-25
+1589;14;Epiphany;2015-01-06
+1608;78;Immaculate Conception;2016-12-08
+1622;78;St Stephen's Day;2017-12-26
+1650;15;Liberation Day;2015-04-25
+1669;16;Christmas Day;2017-12-25
+1679;16;Easter Monday;2015-04-06
+1682;16;Republic Day;2017-06-02
+1687;16;Immaculate Conception;2015-12-08
+1692;17;Epiphany;2015-01-06
+1702;17;Christmas Day;2017-12-25
+1739;18;International Workers' Day;2017-05-01
+1741;18;Easter Monday;2017-04-17
+1797;19;New year;2015-01-01
+1855;80;New year;2017-01-01
+1857;80;St Stephen's Day;2016-12-26
+1858;80;All Saints Day;2016-11-01
+1870;80;Easter Monday;2015-04-06
+1881;21;Assumption of Mary to Heaven;2017-08-15
+1888;21;Epiphany;2016-01-06
+1909;23;Epiphany;2017-01-06
+1931;24;All Saints Day;2016-11-01
+1950;25;Republic Day;2017-06-02
+2026;27;Liberation Day;2016-04-25
+2058;28;International Workers' Day;2015-05-01
+2062;28;St Stephen's Day;2017-12-26
+2077;29;Human Rights Day;2015-03-21
+2091;29;Christmas Day;2016-12-25
+2097;29;Heritage Day;2015-09-24
+2113;30;Day of good will;2016-12-26
+2167;31;Family Day;2015-04-03
+2180;31;Local Elections;2016-08-03
+2187;31;Day of reconcilation;2015-12-16
+2307;35;Christmas Day substitute;2016-12-26
+2309;35;Day of good will;2017-12-26
+2320;35;Heritage Day;2015-09-24
+2324;35;National Elections;2014-05-07
+2372;37;Easter Monday;2017-04-17
+2376;37;Christmas Day;2017-12-25
+2378;37;St Stephen's Day;2017-12-26
+2388;37;Liberation Day;2017-04-25
+2407;38;Christmas Day;2016-12-25
+2437;39;Immaculate Conception;2015-12-08
+2440;39;St Stephen's Day;2015-12-26
+2464;40;Christmas Day;2017-12-25
+2468;41;New year;2016-01-01
+2495;43;New year;2016-01-01
+2512;43;Día del trabajador;2014-05-01
+2518;44;Epiphany;2016-01-06
+2532;44;All Saints Day;2015-11-01
+2544;44;Slovak National Uprising anniversary;2017-08-29
+2573;44;Struggle for Freedom and Democracy Day;2013-11-17
+2579;44;Saints Cyril and Methodius Day;2013-07-05
+2581;44;New year;2014-01-01
+2594;44;New year;2013-01-01
+2601;45;Republic Day;2016-06-02
+2612;45;Easter Monday;2017-04-17
+2613;45;Republic Day;2017-06-02
+2635;46;St Stephen's Day;2017-12-26
+2651;50;Labour Day;2016-05-01
+2653;50;Whit Monday;2016-05-16
+2666;50;Assumption of Mary to Heaven;2015-08-15
+2695;51;Easter Sunday;2016-03-27
+2705;51;New year;2015-01-01
+2758;54;International Workers' Day;2014-05-01
+2778;54;Immaculate Conception;2014-12-08
+2784;54;Liberation Day;2015-04-25
+2807;55;St Stephen's Day;2014-12-26
+2828;55;St Stephen's Day;2015-12-26
+2837;57;Immaculate Conception;2016-12-08
+2871;57;Christmas Day;2017-12-25
+2882;89;Liberation Day;2017-04-25
+2898;89;International Workers' Day;2017-05-01
+2901;89;International Workers' Day;2015-05-01
+2908;89;Christmas Day;2015-12-25
+2936;58;Easter Monday;2016-03-28
+2948;58;Whit Monday;2013-05-20
+2996;58;Good Friday;2016-03-25
+3016;58;Easter Sunday;2013-03-31
+3018;67;All Saints Day;2016-11-01
+3034;67;Epiphany;2015-01-06
+3046;67;Republic Day;2015-06-02
+3062;7;St Stephen's Day;2017-12-26
+3117;11;Immaculate Conception;2016-12-08
+3168;82;Boxing Day;2016-12-26
+3178;82;Berchtold's Day;2016-01-02
+3220;53;Whit Monday;2017-06-05
+3248;56;All Saints Day;2015-11-01
+3276;36;Easter Monday;2017-04-17
+13;20;Washington's Birthday;2014-02-17
+44;20;Memorial Day;2014-05-26
+64;20;Christmas Eve;2017-12-24
+83;34;Thanksgiving Day;2016-11-24
+104;34;Christmas Eve;2015-12-24
+109;34;New year;2017-01-01
+174;48;Labour Day;2016-05-01
+179;48;Ascension Thursday;2015-05-14
+184;48;All Saints Day;2015-11-01
+245;49;Republic Day;2015-06-02
+252;88;Immaculate Conception;2014-12-08
+254;88;St Stephen's Day;2015-12-26
+265;88;Easter Monday;2015-04-06
+272;88;Epiphany;2015-01-06
+277;88;Liberation Day;2017-04-25
+291;88;Assumption of Mary to Heaven;2014-08-15
+306;59;Labour Day;2017-05-01
+322;59;Bastille Day;2014-07-14
+327;59;Whit Monday;2016-05-16
+332;59;Christmas Day;2017-12-25
+358;91;New year;2017-01-01
+379;60;Easter Monday;2017-04-17
+382;60;All Saints Day;2016-11-01
+383;60;Whit Monday;2017-06-05
+401;60;Labour Day;2016-05-01
+403;60;Bastille Day;2015-07-14
+419;61;Republic Day;2017-06-02
+456;62;Republic Day;2016-06-02
+457;62;Epiphany;2016-01-06
+469;63;New year;2016-01-01
+494;64;All Saints Day;2016-11-01
+497;64;International Workers' Day;2017-05-01
+526;65;Easter Monday;2017-04-17
+530;65;St Stephen's Day;2017-12-26
+565;66;All Saints Day;2017-11-01
+567;66;Liberation Day;2017-04-25
+593;68;All Saints Day;2017-11-01
+611;68;International Workers' Day;2017-05-01
+618;69;Assumption of Mary to Heaven;2015-08-15
+656;86;Christmas Day;2015-12-25
+666;86;International Workers' Day;2015-05-01
+673;86;International Workers' Day;2016-05-01
+685;70;Assumption of Mary to Heaven;2015-08-15
+705;70;Liberation Day;2015-04-25
+712;70;Republic Day;2015-06-02
+837;74;Christmas Day;2017-12-25
+853;75;Immaculate Conception;2016-12-08
+871;75;Easter Monday;2015-04-06
+884;75;Republic Day;2015-06-02
+887;75;Assumption of Mary to Heaven;2015-08-15
+894;75;Epiphany;2016-01-06
+899;76;Liberation Day;2015-04-25
+901;76;Immaculate Conception;2017-12-08
+904;76;Liberation Day;2017-04-25
+911;76;All Saints Day;2015-11-01
+912;76;International Workers' Day;2017-05-01
+942;77;Easter Monday;2017-04-17
+968;90;Immaculate Conception;2014-12-08
+975;90;New year;2016-01-01
+1063;1;All Saints Day;2015-11-01
+1083;1;Easter Monday;2016-03-28
+1111;3;Easter Monday;2016-03-28
+1118;3;Immaculate Conception;2017-12-08
+1121;3;International Workers' Day;2015-05-01
+1125;3;Epiphany;2016-01-06
+1135;3;All Saints Day;2016-11-01
+1169;4;Christmas Day;2016-12-25
+1175;81;All Saints Day;2014-11-01
+1184;81;Immaculate Conception;2014-12-08
+1187;81;International Workers' Day;2015-05-01
+1203;81;Republic Day;2014-06-02
+1206;5;Immaculate Conception;2016-12-08
+1211;5;Republic Day;2017-06-02
+1229;5;New year;2016-01-01
+1256;6;Christmas Day;2015-12-25
+1258;6;Easter Monday;2017-04-17
+1265;6;Immaculate Conception;2017-12-08
+1289;83;International Workers' Day;2015-05-01
+1309;83;Assumption of Mary to Heaven;2016-08-15
+1318;79;Christmas Day;2014-12-25
+1331;79;Immaculate Conception;2017-12-08
+1332;79;Epiphany;2016-01-06
+1345;79;St Stephen's Day;2015-12-26
+1355;79;International Workers' Day;2016-05-01
+1361;8;Liberation Day;2016-04-25
+1395;8;Republic Day;2016-06-02
+1412;9;Immaculate Conception;2014-12-08
+1427;9;Liberation Day;2014-04-25
+1445;10;Easter Monday;2017-04-17
+1446;10;Christmas Day;2014-12-25
+1480;12;Liberation Day;2016-04-25
+1550;13;International Workers' Day;2016-05-01
+1562;13;Christmas Day;2014-12-25
+1573;14;International Workers' Day;2017-05-01
+1582;14;Easter Monday;2017-04-17
+1593;14;Christmas Day;2017-12-25
+1616;78;Epiphany;2017-01-06
+1620;78;Christmas Day;2017-12-25
+1628;15;St Stephen's Day;2016-12-26
+1635;15;St Stephen's Day;2017-12-26
+1674;16;Easter Monday;2016-03-28
+1684;16;St Stephen's Day;2017-12-26
+1686;16;Epiphany;2015-01-06
+1690;17;Epiphany;2017-01-06
+1699;17;International Workers' Day;2014-05-01
+1711;17;International Workers' Day;2017-05-01
+1715;17;Republic Day;2016-06-02
+1721;17;Assumption of Mary to Heaven;2016-08-15
+1724;17;Immaculate Conception;2015-12-08
+1725;17;Liberation Day;2016-04-25
+1731;17;New year;2015-01-01
+1750;18;Easter Monday;2015-04-06
+1759;18;All Saints Day;2016-11-01
+1780;19;Epiphany;2016-01-06
+1786;19;Epiphany;2017-01-06
+1795;19;Easter Monday;2015-04-06
+1818;84;Epiphany;2017-01-06
+1847;80;Republic Day;2015-06-02
+1859;80;St Stephen's Day;2017-12-26
+1878;21;New year;2016-01-01
+1887;21;Immaculate Conception;2017-12-08
+1915;23;St Stephen's Day;2017-12-26
+1953;25;Epiphany;2016-01-06
+1954;25;Republic Day;2016-06-02
+1962;25;Liberation Day;2016-04-25
+1977;85;Assumption of Mary to Heaven;2016-08-15
+1980;85;Republic Day;2016-06-02
+1990;26;St Stephen's Day;2016-12-26
+1993;26;New year;2017-01-01
+2028;27;Christmas Day;2016-12-25
+2053;28;Liberation Day;2015-04-25
+2054;28;Republic Day;2015-06-02
+2059;28;St Stephen's Day;2015-12-26
+2065;29;Youth Day;2014-06-16
+2094;29;Easter Monday;2015-04-06
+2129;30;Freedom Day;2015-04-27
+2136;30;Workers Day;2015-05-01
+2163;31;Day of good will;2014-12-26
+2195;31;Workers Day;2015-05-01
+2197;31;Youth Day;2016-06-16
+2204;31;Day of good will;2016-12-26
+2209;32;Family Day;2014-04-18
+2211;32;Day of good will;2014-12-26
+2225;32;New year;2014-01-01
+2241;32;Human Rights Day;2014-03-21
+2269;33;Workers Day;2016-05-01
+2284;33;Freedom Day;2015-04-27
+2327;35;Workers Day;2015-05-01
+2358;35;New year;2015-01-01
+2364;35;Freedom Day;2014-04-27
+2382;37;St Stephen's Day;2016-12-26
+2384;37;Assumption of Mary to Heaven;2016-08-15
+2397;38;Immaculate Conception;2017-12-08
+2398;38;Easter Monday;2016-03-28
+2400;38;Epiphany;2016-01-06
+2401;38;New year;2016-01-01
+2435;39;Assumption of Mary to Heaven;2016-08-15
+2455;40;International Workers' Day;2016-05-01
+2458;40;Liberation Day;2017-04-25
+2482;41;Assumption of Mary to Heaven;2017-08-15
+2483;41;Epiphany;2016-01-06
+2497;43;Assumption of Mary to Heaven;2014-08-15
+2506;43;Día de la Constitución Española;2014-12-06
+2541;44;Christmas Day;2013-12-25
+2585;44;Christmas Day;2016-12-25
+2677;51;Whit Sunday;2017-06-04
+2694;51;National Holiday;2015-08-01
+2726;52;Liberation Day;2015-04-25
+2732;52;Republic Day;2016-06-02
+2754;54;St Stephen's Day;2014-12-26
+2757;54;All Saints Day;2017-11-01
+2773;54;Epiphany;2017-01-06
+2779;54;Easter Monday;2016-03-28
+2797;55;Liberation Day;2015-04-25
+2805;55;Republic Day;2014-06-02
+2824;55;Immaculate Conception;2016-12-08
+2849;57;New year;2015-01-01
+2886;89;Epiphany;2017-01-06
+2893;89;St Stephen's Day;2016-12-26
+2913;58;National Holiday;2011-08-01
+2922;58;Labour Day;2015-05-01
+2938;58;New year;2011-01-01
+2943;58;Labour Day;2012-05-01
+2965;58;National Holiday;2015-08-01
+2981;58;Christmas Day;2015-12-25
+2989;58;Whit Monday;2016-05-16
+3024;67;Easter Monday;2017-04-17
+3044;67;Liberation Day;2017-04-25
+3069;7;Assumption of Mary to Heaven;2014-08-15
+3070;7;Epiphany;2015-01-06
+3086;7;Easter Monday;2016-03-28
+3087;7;Easter Monday;2015-04-06
+3088;7;Liberation Day;2016-04-25
+3093;7;Christmas Day;2015-12-25
+3094;11;Liberation Day;2016-04-25
+3099;11;New year;2016-01-01
+3103;11;Republic Day;2015-06-02
+3121;11;International Workers' Day;2017-05-01
+3126;11;Epiphany;2014-01-06
+3133;11;International Workers' Day;2014-05-01
+3137;11;Assumption of Mary to Heaven;2015-08-15
+3159;22;Christmas Day;2017-12-25
+3180;82;Berchtold's Day;2017-01-02
+3192;47;International Workers' Day;2017-05-01
+3226;53;National Holiday;2016-05-01
+3280;36;Epiphany;2016-01-06
+1;20;Confederate Heroes Day;2014-01-19
+23;20;Birthday of Martin Luther King, Jr.;2016-01-18
+27;20;Thanksgiving Friday;2014-11-28
+37;20;Birthday of Martin Luther King, Jr.;2017-01-16
+70;20;Independence Day;2015-07-04
+78;20;San Jacinto Day;2016-04-21
+147;42;Bastille Day;2016-07-14
+190;48;Armistice of 1918;2014-11-11
+192;48;Labour Day;2015-05-01
+194;48;Assumption of Mary to Heaven;2017-08-15
+226;49;Easter Monday;2017-04-17
+230;49;St Stephen's Day;2015-12-26
+233;49;Liberation Day;2017-04-25
+239;49;Easter Monday;2014-04-21
+248;49;Christmas Day;2017-12-25
+257;88;New year;2014-01-01
+270;88;Assumption of Mary to Heaven;2017-08-15
+275;88;Republic Day;2016-06-02
+339;91;Ascension Thursday;2016-05-05
+346;91;Christmas Day;2016-12-25
+362;91;Armistice Day;2017-11-11
+366;91;Victory in Europe Day;2017-05-08
+389;60;Armistice Day;2015-11-11
+405;61;Liberation Day;2016-04-25
+413;61;St Stephen's Day;2015-12-26
+422;61;St Stephen's Day;2016-12-26
+433;61;Republic Day;2016-06-02
+454;62;Epiphany;2017-01-06
+466;63;Republic Day;2015-06-02
+470;63;Liberation Day;2015-04-25
+472;63;Assumption of Mary to Heaven;2016-08-15
+491;63;New year;2017-01-01
+499;64;Immaculate Conception;2015-12-08
+503;64;Christmas Day;2015-12-25
+511;64;St Stephen's Day;2017-12-26
+558;65;Christmas Day;2017-12-25
+561;66;Immaculate Conception;2017-12-08
+566;66;Easter Monday;2016-03-28
+573;66;New year;2017-01-01
+591;68;Liberation Day;2016-04-25
+619;69;Christmas Day;2015-12-25
+638;69;Easter Monday;2016-03-28
+646;69;St Stephen's Day;2017-12-26
+701;70;Epiphany;2016-01-06
+704;70;Christmas Day;2016-12-25
+729;71;All Saints Day;2016-11-01
+733;71;Liberation Day;2016-04-25
+761;72;Dia da Liberdade;2015-04-25
+772;72;Assunção de Nossa Senhora;2015-08-15
+778;73;Easter Monday;2017-04-17
+785;73;Republic Day;2015-06-02
+786;73;Assumption of Mary to Heaven;2015-08-15
+795;73;New year;2017-01-01
+814;74;Assumption of Mary to Heaven;2014-08-15
+815;74;Immaculate Conception;2014-12-08
+822;74;St Stephen's Day;2017-12-26
+833;74;Republic Day;2017-06-02
+841;74;Epiphany;2017-01-06
+844;74;Republic Day;2016-06-02
+872;75;Immaculate Conception;2015-12-08
+879;75;Assumption of Mary to Heaven;2017-08-15
+893;75;International Workers' Day;2015-05-01
+903;76;St Stephen's Day;2016-12-26
+948;77;Assumption of Mary to Heaven;2015-08-15
+959;77;Epiphany;2017-01-06
+1002;90;International Workers' Day;2016-05-01
+1014;87;Immaculate Conception;2016-12-08
+1023;87;Assumption of Mary to Heaven;2014-08-15
+1049;87;International Workers' Day;2016-05-01
+1051;1;Republic Day;2017-06-02
+1052;1;St Stephen's Day;2017-12-26
+1061;1;New year;2015-01-01
+1066;1;New year;2017-01-01
+1074;1;Christmas Day;2016-12-25
+1102;2;Epiphany;2013-01-06
+1129;3;Republic Day;2017-06-02
+1139;4;Epiphany;2017-01-06
+1145;4;International Workers' Day;2017-05-01
+1148;4;Assumption of Mary to Heaven;2017-08-15
+1158;4;Easter Monday;2015-04-06
+1160;4;All Saints Day;2015-11-01
+1172;81;Republic Day;2015-06-02
+1177;81;Immaculate Conception;2016-12-08
+1185;81;St Stephen's Day;2014-12-26
+1186;81;Epiphany;2015-01-06
+1189;81;Liberation Day;2014-04-25
+1190;81;Assumption of Mary to Heaven;2016-08-15
+1212;5;Assumption of Mary to Heaven;2014-08-15
+1227;5;Epiphany;2015-01-06
+1280;6;Immaculate Conception;2015-12-08
+1314;83;Liberation Day;2015-04-25
+1333;79;Republic Day;2016-06-02
+1349;79;Liberation Day;2014-04-25
+1362;8;Assumption of Mary to Heaven;2014-08-15
+1363;8;St Stephen's Day;2014-12-26
+1381;8;New year;2014-01-01
+1419;9;Immaculate Conception;2015-12-08
+1430;9;All Saints Day;2016-11-01
+1448;10;Easter Monday;2016-03-28
+1462;10;Assumption of Mary to Heaven;2014-08-15
+1464;10;All Saints Day;2015-11-01
+1470;10;Christmas Day;2017-12-25
+1474;10;Assumption of Mary to Heaven;2017-08-15
+1508;12;Assumption of Mary to Heaven;2017-08-15
+1511;12;Liberation Day;2015-04-25
+1521;12;All Saints Day;2014-11-01
+1523;12;Immaculate Conception;2015-12-08
+1538;13;Republic Day;2017-06-02
+1545;13;All Saints Day;2016-11-01
+1590;14;Easter Monday;2016-03-28
+1594;14;Liberation Day;2016-04-25
+1595;14;Assumption of Mary to Heaven;2017-08-15
+1604;78;Epiphany;2016-01-06
+1610;78;Liberation Day;2017-04-25
+1612;78;International Workers' Day;2016-05-01
+1619;78;St Stephen's Day;2016-12-26
+1655;15;Assumption of Mary to Heaven;2015-08-15
+1664;16;International Workers' Day;2017-05-01
+1670;16;Republic Day;2015-06-02
+1688;16;Epiphany;2016-01-06
+1696;17;Republic Day;2015-06-02
+1707;17;Assumption of Mary to Heaven;2015-08-15
+1753;18;All Saints Day;2017-11-01
+1760;18;New year;2017-01-01
+1763;18;St Stephen's Day;2015-12-26
+1767;19;Christmas Day;2015-12-25
+1769;19;Easter Monday;2016-03-28
+1777;19;Republic Day;2016-06-02
+1787;19;Assumption of Mary to Heaven;2017-08-15
+1790;19;Liberation Day;2017-04-25
+1793;19;International Workers' Day;2015-05-01
+1794;19;Immaculate Conception;2017-12-08
+1800;84;Easter Monday;2017-04-17
+1827;84;Republic Day;2015-06-02
+1851;80;All Saints Day;2015-11-01
+1876;21;New year;2017-01-01
+1913;23;New year;2017-01-01
+1921;24;Immaculate Conception;2017-12-08
+1937;24;All Saints Day;2017-11-01
+1939;24;Epiphany;2016-01-06
+1942;25;All Saints Day;2017-11-01
+1945;25;St Stephen's Day;2016-12-26
+1947;25;International Workers' Day;2016-05-01
+1961;25;Assumption of Mary to Heaven;2017-08-15
+2033;28;Immaculate Conception;2015-12-08
+2066;29;New year;2016-01-01
+2076;29;Day of reconcilation;2014-12-16
+2088;29;Family Day;2016-03-25
+2100;29;New year;2015-01-01
+2108;29;Easter Monday;2016-03-28
+2116;30;National Women Day substitute;2015-08-10
+2126;30;Boxing Day;2015-12-26
+2132;30;Youth Day;2016-06-16
+2189;31;Heritage Day;2014-09-24
+2212;32;Workers Day substitute;2016-05-02
+2255;33;Human Rights Day;2016-03-21
+2285;33;Heritage Day;2015-09-24
+2306;35;Day of reconcilation;2016-12-16
+2341;35;Workers Day substitute;2016-05-02
+2350;35;National Women Day;2016-08-09
+2359;35;Day of good will;2015-12-26
+2380;37;Epiphany;2016-01-06
+2383;37;International Workers' Day;2017-05-01
+2394;38;Easter Monday;2017-04-17
+2395;38;All Saints Day;2016-11-01
+2403;38;All Saints Day;2017-11-01
+2406;38;International Workers' Day;2016-05-01
+2447;40;Epiphany;2016-01-06
+2485;41;Liberation Day;2016-04-25
+2499;43;Epiphany;2015-01-06
+2526;44;Day of the Establishment of the Slovak Republic;2015-01-01
+2531;44;Labour Day;2014-05-01
+2540;44;Liberation Day;2013-05-08
+2547;44;Day of the Constitution of the Slovak Republic;2014-09-01
+2549;44;Day of Blessed Virgin Mary, patron saint of Slovakia;2016-09-15
+2572;44;Day of Blessed Virgin Mary, patron saint of Slovakia;2013-09-15
+2607;45;Epiphany;2016-01-06
+2627;46;Liberation Day;2017-04-25
+2647;50;All Saints Day;2016-11-01
+2652;50;Ascension Thursday;2016-05-05
+2655;50;Ascension Thursday;2017-05-25
+2702;51;New year;2017-01-01
+2771;54;International Workers' Day;2015-05-01
+2781;54;Republic Day;2015-06-02
+2789;55;Republic Day;2015-06-02
+2806;55;Assumption of Mary to Heaven;2014-08-15
+2820;55;Republic Day;2017-06-02
+2872;57;Republic Day;2014-06-02
+2881;89;Easter Monday;2017-04-17
+2899;89;Christmas Day;2016-12-25
+2905;89;Liberation Day;2016-04-25
+2918;58;Easter Monday;2009-04-13
+2929;58;New year;2010-01-01
+2932;58;Good Friday;2014-04-18
+2939;58;Easter Monday;2012-04-09
+2979;58;Christmas Day;2014-12-25
+3022;67;Assumption of Mary to Heaven;2015-08-15
+3038;67;New year;2017-01-01
+3082;7;International Workers' Day;2014-05-01
+3089;7;Immaculate Conception;2017-12-08
+3090;7;Republic Day;2015-06-02
+3098;11;Immaculate Conception;2015-12-08
+3106;11;New year;2017-01-01
+3110;11;Easter Monday;2017-04-17
+3128;11;Christmas Day;2015-12-25
+3132;11;Liberation Day;2014-04-25
+3136;11;St Stephen's Day;2014-12-26
+3149;22;Assumption of Mary to Heaven;2016-08-15
+3177;82;Easter Monday;2017-04-17
+3194;47;St Stephen's Day;2017-12-26
+3214;53;Assumption of Mary to Heaven;2016-08-15
+3236;56;Easter Monday;2016-03-28
+3242;56;Whit Monday;2017-06-05
+3245;56;Assumption of Mary to Heaven;2016-08-15
+3253;56;All Saints Day;2017-11-01
+3256;56;Christmas Day;2015-12-25
+3260;56;Ascension Thursday;2016-05-05
+6;20;Memorial Day;2016-05-30
+7;20;Labor Day;2016-09-05
+11;20;Christmas Eve (Observed);2017-12-26
+24;20;Lyndon B. Jonhson Day;2016-08-27
+30;20;San Jacinto Day;2017-04-21
+35;20;Labor Day;2015-09-07
+40;20;Lyndon B. Jonhson Day;2014-08-27
+50;20;Lyndon B. Jonhson Day;2017-08-27
+85;34;Christmas Eve;2017-12-24
+91;34;Veterans Day;2015-11-11
+106;34;Veterans Day;2017-11-11
+110;34;Washington's Birthday;2016-02-15
+111;34;Thanksgiving Day;2017-11-23
+114;34;Christmas Eve (Observed);2016-12-23
+139;42;Assumption of Mary to Heaven;2014-08-15
+167;48;Easter Monday;2017-04-17
+171;48;Whit Monday;2017-06-05
+172;48;All Saints Day;2017-11-01
+203;48;National Day;2015-07-21
+215;49;Easter Monday;2016-03-28
+243;49;Immaculate Conception;2014-12-08
+250;49;All Saints Day;2015-11-01
+258;88;Christmas Day;2014-12-25
+282;88;Immaculate Conception;2017-12-08
+284;88;Epiphany;2016-01-06
+300;59;Easter Monday;2014-04-21
+318;59;Bastille Day;2016-07-14
+329;59;Labour Day;2015-05-01
+331;59;Easter Monday;2017-04-17
+367;91;Whit Monday;2015-05-25
+396;60;Christmas Day;2015-12-25
+430;61;Liberation Day;2017-04-25
+435;61;Assumption of Mary to Heaven;2015-08-15
+443;62;New year;2016-01-01
+473;63;International Workers' Day;2017-05-01
+482;63;Assumption of Mary to Heaven;2015-08-15
+522;64;Liberation Day;2015-04-25
+546;65;Immaculate Conception;2016-12-08
+563;66;Republic Day;2016-06-02
+621;69;International Workers' Day;2016-05-01
+624;69;Liberation Day;2017-04-25
+636;69;Republic Day;2017-06-02
+637;69;St Stephen's Day;2016-12-26
+669;86;All Saints Day;2015-11-01
+691;70;St Stephen's Day;2016-12-26
+727;71;Republic Day;2017-06-02
+750;72;Christmas Day;2016-12-25
+753;72;New year;2016-01-01
+765;72;Dia do Trabalhador;2016-05-01
+766;72;Assunção de Nossa Senhora;2016-08-15
+776;73;New year;2016-01-01
+802;73;Christmas Day;2015-12-25
+819;74;Immaculate Conception;2015-12-08
+840;74;Immaculate Conception;2016-12-08
+854;75;St Stephen's Day;2016-12-26
+858;75;Easter Monday;2017-04-17
+877;75;St Stephen's Day;2014-12-26
+890;75;Liberation Day;2014-04-25
+909;76;St Stephen's Day;2015-12-26
+923;76;Christmas Day;2016-12-25
+940;77;Republic Day;2015-06-02
+970;90;St Stephen's Day;2017-12-26
+988;90;Republic Day;2016-06-02
+1000;90;Easter Monday;2015-04-06
+1013;87;Immaculate Conception;2015-12-08
+1042;87;Easter Monday;2017-04-17
+1103;2;International Workers' Day;2014-05-01
+1122;3;Republic Day;2015-06-02
+1159;4;Republic Day;2015-06-02
+1178;81;International Workers' Day;2016-05-01
+1215;5;Immaculate Conception;2015-12-08
+1221;5;Republic Day;2016-06-02
+1228;5;St Stephen's Day;2015-12-26
+1239;5;Immaculate Conception;2017-12-08
+1247;5;Easter Monday;2015-04-06
+1273;6;St Stephen's Day;2015-12-26
+1282;83;Liberation Day;2016-04-25
+1285;83;St Stephen's Day;2014-12-26
+1286;83;St Stephen's Day;2015-12-26
+1302;83;New year;2014-01-01
+1310;83;Immaculate Conception;2016-12-08
+1312;83;All Saints Day;2016-11-01
+1315;79;All Saints Day;2017-11-01
+1335;79;International Workers' Day;2017-05-01
+1340;79;Christmas Day;2016-12-25
+1385;8;New year;2016-01-01
+1405;9;St Stephen's Day;2014-12-26
+1406;9;Assumption of Mary to Heaven;2014-08-15
+1424;9;Republic Day;2015-06-02
+1425;9;Christmas Day;2016-12-25
+1454;10;St Stephen's Day;2017-12-26
+1459;10;Easter Monday;2014-04-21
+1465;10;Christmas Day;2016-12-25
+1498;12;Christmas Day;2017-12-25
+1535;13;Christmas Day;2017-12-25
+1552;13;Easter Monday;2017-04-17
+1565;13;All Saints Day;2017-11-01
+1568;14;Immaculate Conception;2016-12-08
+1597;14;Assumption of Mary to Heaven;2015-08-15
+1601;78;Easter Monday;2016-03-28
+1602;78;Republic Day;2017-06-02
+1617;78;All Saints Day;2017-11-01
+1656;16;Epiphany;2017-01-06
+1665;16;All Saints Day;2016-11-01
+1667;16;Republic Day;2016-06-02
+1703;17;Liberation Day;2015-04-25
+1710;17;Epiphany;2016-01-06
+1729;17;All Saints Day;2017-11-01
+1735;18;Assumption of Mary to Heaven;2016-08-15
+1740;18;Epiphany;2016-01-06
+1766;19;Christmas Day;2016-12-25
+1773;19;St Stephen's Day;2015-12-26
+1782;19;Republic Day;2017-06-02
+1803;84;St Stephen's Day;2017-12-26
+1805;84;Liberation Day;2015-04-25
+1821;84;Easter Monday;2015-04-06
+1824;84;Assumption of Mary to Heaven;2014-08-15
+1875;80;Liberation Day;2017-04-25
+1897;21;All Saints Day;2016-11-01
+1923;24;New year;2017-01-01
+1926;24;Christmas Day;2016-12-25
+1930;24;Republic Day;2016-06-02
+1959;25;Epiphany;2017-01-06
+1966;85;St Stephen's Day;2017-12-26
+1970;85;Assumption of Mary to Heaven;2017-08-15
+1975;85;All Saints Day;2016-11-01
+1996;26;Immaculate Conception;2017-12-08
+2004;26;All Saints Day;2017-11-01
+2011;27;Christmas Day;2017-12-25
+2024;27;International Workers' Day;2016-05-01
+2095;29;Christmas Day;2014-12-25
+2114;30;Good Friday;2014-04-18
+2130;30;Day of reconcilation;2015-12-16
+2142;30;Good Friday;2016-03-25
+2148;30;Freedom Day;2014-04-27
+2198;31;Good Friday;2016-03-25
+2218;32;Human Rights Day;2015-03-21
+2243;32;Boxing Day;2014-12-26
+2249;32;National Women Day;2015-08-09
+2267;33;Day of reconcilation;2015-12-16
+2282;33;Youth Day;2014-06-16
+2305;35;Workers Day;2014-05-01
+2310;35;Freedom Day substitute;2014-04-28
+2312;35;Family Day;2016-03-25
+2351;35;New year;2014-01-01
+2356;35;National Women Day;2017-08-09
+2368;37;Epiphany;2017-01-06
+2392;38;St Stephen's Day;2017-12-26
+2408;38;Epiphany;2017-01-06
+2417;39;New year;2015-01-01
+2418;39;Assumption of Mary to Heaven;2015-08-15
+2441;39;Liberation Day;2015-04-25
+2442;39;Epiphany;2016-01-06
+2451;40;Immaculate Conception;2016-12-08
+2453;40;St Stephen's Day;2017-12-26
+2454;40;Republic Day;2017-06-02
+2514;43;Día de la Constitución Española;2016-12-06
+2534;44;Epiphany;2017-01-06
+2542;44;Good Friday;2014-04-18
+2548;44;Christmas Eve;2014-12-24
+2576;44;Struggle for Freedom and Democracy Day;2016-11-17
+2600;45;Assumption of Mary to Heaven;2017-08-15
+2603;45;Liberation Day;2016-04-25
+2611;45;Assumption of Mary to Heaven;2016-08-15
+2619;45;Liberation Day;2017-04-25
+2624;46;Easter Monday;2016-03-28
+2630;46;Republic Day;2017-06-02
+2631;46;Republic Day;2016-06-02
+2639;46;Assumption of Mary to Heaven;2016-08-15
+2646;50;Armistice Day;2015-11-11
+2667;50;Whit Monday;2017-06-05
+2670;50;Assumption of Mary to Heaven;2017-08-15
+2687;51;Ascension Thursday;2015-05-14
+2698;51;Boxing Day;2017-12-26
+2706;51;Labour Day;2015-05-01
+2724;52;St Stephen's Day;2016-12-26
+2736;52;Liberation Day;2017-04-25
+2751;54;Christmas Day;2016-12-25
+2785;54;St Stephen's Day;2016-12-26
+2791;55;Easter Monday;2014-04-21
+2868;57;Liberation Day;2014-04-25
+2870;57;International Workers' Day;2017-05-01
+2877;89;Republic Day;2015-06-02
+2888;89;Immaculate Conception;2017-12-08
+2935;58;Whit Monday;2015-05-25
+2953;58;Ascension Thursday;2011-06-02
+2957;58;Ascension Thursday;2015-05-14
+2967;58;Ascension Thursday;2017-05-25
+2970;58;Christmas Day;2009-12-25
+2975;58;Ascension Thursday;2010-05-13
+2983;58;Whit Monday;2017-06-05
+2997;58;Ascension Thursday;2016-05-05
+3007;58;Berchtold's Day;2015-01-02
+3009;58;Easter Monday;2017-04-17
+3031;67;Immaculate Conception;2015-12-08
+3067;7;All Saints Day;2017-11-01
+3068;7;Liberation Day;2014-04-25
+3107;11;Liberation Day;2017-04-25
+3116;11;Easter Monday;2014-04-21
+3122;11;Republic Day;2017-06-02
+3130;11;Liberation Day;2015-04-25
+3153;22;St Stephen's Day;2017-12-26
+3154;22;Easter Monday;2016-03-28
+3207;53;National Holiday;2017-05-01
+3228;53;Christmas Day;2016-12-25
+3237;56;Christmas Day;2017-12-25
+3257;56;Labour Day;2016-05-01
+3269;36;All Saints Day;2016-11-01
+3271;36;New year;2016-01-01
+3272;36;Immaculate Conception;2016-12-08
+3281;36;Liberation Day;2016-04-25
+17;20;Veterans Day;2015-11-11
+36;20;Christmas Eve;2016-12-24
+42;20;Day After Christmas;2014-12-26
+51;20;Thanksgiving Day;2014-11-27
+58;20;Independence Day;2016-07-04
+93;34;Christmas Eve;2016-12-24
+117;34;New year;2016-01-01
+118;34;Memorial Day;2017-05-29
+123;42;Victory in Europe Day;2016-05-08
+128;42;All Saints Day;2016-11-01
+191;48;National Day;2014-07-21
+201;48;New year;2017-01-01
+207;49;Immaculate Conception;2016-12-08
+212;49;New year;2016-01-01
+263;88;St Stephen's Day;2016-12-26
+298;59;Assumption of Mary to Heaven;2016-08-15
+311;59;Bastille Day;2015-07-14
+330;59;Ascension Thursday;2014-05-29
+354;91;Armistice Day;2016-11-11
+380;60;Victory in Europe Day;2017-05-08
+417;61;Easter Monday;2015-04-06
+438;62;Assumption of Mary to Heaven;2017-08-15
+449;62;St Stephen's Day;2016-12-26
+462;63;St Stephen's Day;2017-12-26
+467;63;Christmas Day;2015-12-25
+478;63;Christmas Day;2017-12-25
+485;63;Easter Monday;2017-04-17
+486;63;Immaculate Conception;2017-12-08
+510;64;Immaculate Conception;2016-12-08
+520;64;Easter Monday;2016-03-28
+532;65;Liberation Day;2015-04-25
+540;65;Christmas Day;2015-12-25
+578;66;Christmas Day;2017-12-25
+580;66;Republic Day;2017-06-02
+588;68;Republic Day;2016-06-02
+592;68;Immaculate Conception;2016-12-08
+605;68;Easter Monday;2016-03-28
+620;69;St Stephen's Day;2015-12-26
+652;86;Christmas Day;2016-12-25
+661;86;Republic Day;2016-06-02
+677;86;Assumption of Mary to Heaven;2016-08-15
+745;71;Liberation Day;2015-04-25
+757;72;Dia do Trabalhador;2014-05-01
+783;73;Republic Day;2017-06-02
+789;73;All Saints Day;2016-11-01
+798;73;Liberation Day;2015-04-25
+800;73;Epiphany;2015-01-06
+809;74;Epiphany;2014-01-06
+843;74;Assumption of Mary to Heaven;2017-08-15
+847;74;New year;2016-01-01
+855;75;New year;2014-01-01
+882;75;Christmas Day;2017-12-25
+886;75;All Saints Day;2014-11-01
+889;75;Easter Monday;2016-03-28
+910;76;St Stephen's Day;2017-12-26
+922;76;Assumption of Mary to Heaven;2015-08-15
+937;77;Immaculate Conception;2015-12-08
+952;77;All Saints Day;2017-11-01
+954;77;Immaculate Conception;2017-12-08
+958;77;New year;2017-01-01
+962;77;All Saints Day;2016-11-01
+969;90;International Workers' Day;2017-05-01
+972;90;Liberation Day;2014-04-25
+992;90;Assumption of Mary to Heaven;2016-08-15
+1032;87;St Stephen's Day;2017-12-26
+1065;1;Christmas Day;2017-12-25
+1087;2;St Stephen's Day;2013-12-26
+1090;2;Liberation Day;2014-04-25
+1093;2;Immaculate Conception;2014-12-08
+1100;2;All Saints Day;2014-11-01
+1116;3;Immaculate Conception;2016-12-08
+1117;3;Assumption of Mary to Heaven;2017-08-15
+1146;4;All Saints Day;2017-11-01
+1156;4;Liberation Day;2016-04-25
+1179;81;International Workers' Day;2014-05-01
+1183;81;Easter Monday;2015-04-06
+1195;81;New year;2016-01-01
+1198;81;Christmas Day;2016-12-25
+1210;5;Assumption of Mary to Heaven;2016-08-15
+1223;5;Liberation Day;2014-04-25
+1226;5;Christmas Day;2015-12-25
+1244;5;All Saints Day;2017-11-01
+1279;6;St Stephen's Day;2017-12-26
+1303;83;All Saints Day;2015-11-01
+1347;79;Immaculate Conception;2016-12-08
+1360;8;Liberation Day;2015-04-25
+1370;8;All Saints Day;2014-11-01
+1404;9;St Stephen's Day;2016-12-26
+1483;12;Assumption of Mary to Heaven;2015-08-15
+1484;12;New year;2014-01-01
+1485;12;Easter Monday;2014-04-21
+1497;12;Immaculate Conception;2016-12-08
+1504;12;International Workers' Day;2016-05-01
+1537;13;Immaculate Conception;2015-12-08
+1539;13;Easter Monday;2015-04-06
+1541;13;Assumption of Mary to Heaven;2016-08-15
+1556;13;Immaculate Conception;2016-12-08
+1559;13;New year;2017-01-01
+1567;13;Immaculate Conception;2014-12-08
+1577;14;St Stephen's Day;2016-12-26
+1581;14;New year;2017-01-01
+1606;78;Christmas Day;2016-12-25
+1611;78;Liberation Day;2016-04-25
+1621;78;Republic Day;2016-06-02
+1624;15;International Workers' Day;2015-05-01
+1626;15;Assumption of Mary to Heaven;2017-08-15
+1627;15;Assumption of Mary to Heaven;2016-08-15
+1641;15;Immaculate Conception;2015-12-08
+1653;15;All Saints Day;2017-11-01
+1701;17;International Workers' Day;2016-05-01
+1722;17;New year;2017-01-01
+1732;17;International Workers' Day;2015-05-01
+1738;18;St Stephen's Day;2017-12-26
+1749;18;Epiphany;2017-01-06
+1811;84;Immaculate Conception;2015-12-08
+1819;84;Republic Day;2016-06-02
+1833;84;Epiphany;2016-01-06
+1840;84;Epiphany;2014-01-06
+1844;80;Assumption of Mary to Heaven;2017-08-15
+1866;80;Assumption of Mary to Heaven;2016-08-15
+1874;80;Easter Monday;2016-03-28
+1891;21;Republic Day;2016-06-02
+1894;21;International Workers' Day;2016-05-01
+1916;23;Immaculate Conception;2017-12-08
+1917;23;New year;2016-01-01
+1919;23;Christmas Day;2017-12-25
+1922;24;Easter Monday;2016-03-28
+1932;24;International Workers' Day;2016-05-01
+1964;85;Liberation Day;2017-04-25
+1979;85;Immaculate Conception;2016-12-08
+1983;85;Liberation Day;2016-04-25
+1994;26;Assumption of Mary to Heaven;2016-08-15
+2002;26;Immaculate Conception;2016-12-08
+2007;26;Liberation Day;2017-04-25
+2010;27;Epiphany;2017-01-06
+2013;27;Easter Monday;2016-03-28
+2020;27;Liberation Day;2017-04-25
+2032;28;International Workers' Day;2017-05-01
+2038;28;New year;2016-01-01
+2044;28;All Saints Day;2017-11-01
+2048;28;Assumption of Mary to Heaven;2016-08-15
+2073;29;New year;2014-01-01
+2079;29;Local Elections;2016-08-03
+2083;29;Human Rights Day;2016-03-21
+2087;29;Boxing Day;2015-12-26
+2092;29;Day of good will;2016-12-26
+2110;29;Freedom Day;2015-04-27
+2118;30;Christmas Day substitute;2016-12-26
+2149;30;Heritage Day;2014-09-24
+2155;30;Day of reconcilation;2016-12-16
+2164;31;Christmas Day;2015-12-25
+2176;31;Easter Monday;2015-04-06
+2179;31;Workers Day substitute;2016-05-02
+2200;31;Human Rights Day;2014-03-21
+2201;31;Workers Day;2014-05-01
+2236;32;Freedom Day;2016-04-27
+2242;32;Easter Monday;2016-03-28
+2246;32;Human Rights Day;2016-03-21
+2257;33;Heritage Day;2016-09-24
+2288;33;Christmas Day;2015-12-25
+2292;33;Youth Day;2015-06-16
+2297;33;Heritage Day;2014-09-24
+2308;35;Boxing Day;2017-12-26
+2313;35;Workers Day;2017-05-01
+2317;35;Human Rights Day;2017-03-21
+2329;35;Christmas Day;2016-12-25
+2337;35;National Women Day;2014-08-09
+2340;35;Christmas Day;2015-12-25
+2345;35;Day of reconcilation;2014-12-16
+2353;35;Youth Day;2016-06-16
+2369;37;Liberation Day;2016-04-25
+2389;38;Christmas Day;2017-12-25
+2409;38;Liberation Day;2017-04-25
+2411;39;Easter Monday;2016-03-28
+2428;39;St Stephen's Day;2016-12-26
+2476;41;All Saints Day;2017-11-01
+2529;44;Easter Monday;2013-04-01
+2551;44;Day of the Establishment of the Slovak Republic;2017-01-01
+2557;44;Day of the Constitution of the Slovak Republic;2013-09-01
+2589;44;Day of the Constitution of the Slovak Republic;2015-09-01
+2596;44;Day of Blessed Virgin Mary, patron saint of Slovakia;2017-09-15
+2605;45;New year;2017-01-01
+2628;46;All Saints Day;2016-11-01
+2633;46;Easter Monday;2017-04-17
+2654;50;Labour Day;2017-05-01
+2669;50;Easter Monday;2017-04-17
+2693;51;Christmas Day;2017-12-25
+2709;51;Whit Monday;2017-06-05
+2717;52;Christmas Day;2015-12-25
+2719;52;New year;2016-01-01
+2743;52;Easter Monday;2017-04-17
+2762;54;Immaculate Conception;2017-12-08
+2777;54;New year;2014-01-01
+2782;54;New year;2017-01-01
+2795;55;International Workers' Day;2017-05-01
+2796;55;New year;2015-01-01
+2799;55;Liberation Day;2017-04-25
+2811;55;Epiphany;2017-01-06
+2815;55;All Saints Day;2014-11-01
+2829;55;Liberation Day;2016-04-25
+2869;57;Republic Day;2016-06-02
+2890;89;Liberation Day;2015-04-25
+2925;58;Whit Monday;2011-06-13
+2937;58;Easter Monday;2010-04-05
+2940;58;Ascension Thursday;2013-05-09
+2942;58;Whit Monday;2010-05-24
+2944;58;Whit Monday;2012-05-28
+2947;58;Whit Sunday;2013-05-19
+2952;58;Labour Day;2010-05-01
+2958;58;Whit Sunday;2015-05-24
+2962;58;New year;2009-01-01
+2973;58;Christmas Day;2013-12-25
+2984;58;Christmas Day;2010-12-25
+3002;58;Berchtold's Day;2011-01-02
+3013;58;Whit Sunday;2009-05-31
+3030;67;St Stephen's Day;2017-12-26
+3049;67;All Saints Day;2015-11-01
+3055;7;All Saints Day;2014-11-01
+3058;7;New year;2015-01-01
+3073;7;Christmas Day;2017-12-25
+3102;11;All Saints Day;2014-11-01
+3105;11;St Stephen's Day;2016-12-26
+3143;22;International Workers' Day;2017-05-01
+3145;22;Easter Monday;2017-04-17
+3174;82;Whit Monday;2017-06-05
+3182;82;Whit Sunday;2017-06-04
+3186;47;New year;2016-01-01
+3188;47;Easter Monday;2016-03-28
+3191;47;Republic Day;2016-06-02
+3196;47;St Stephen's Day;2016-12-26
+3201;47;Liberation Day;2017-04-25
+3205;47;Christmas Day;2017-12-25
+3206;53;New year;2017-01-01
+3215;53;Immaculate Conception;2016-12-08
+3259;56;Victory in Europe Day;2017-05-08
+3264;56;Assumption of Mary to Heaven;2017-08-15
+3279;36;New year;2017-01-01
+2;20;Veterans Day;2014-11-11
+15;20;Veterans Day;2017-11-11
+18;20;Lyndon B. Jonhson Day (Observed);2016-08-26
+67;20;Texas Independence Day;2016-03-02
+74;20;Washington's Birthday;2017-02-20
+90;34;Christmas Eve (Observed);2017-12-25
+95;34;Veterans Day (Observed);2017-11-10
+120;34;Christmas Day (Observed);2017-12-27
+126;42;Christmas Day;2014-12-25
+135;42;New year;2015-01-01
+163;42;All Saints Day;2017-11-01
+164;42;Bastille Day;2014-07-14
+170;48;Assumption of Mary to Heaven;2016-08-15
+175;48;Easter Monday;2014-04-21
+180;48;Whit Monday;2015-05-25
+188;48;Ascension Thursday;2016-05-05
+195;48;Armistice of 1918;2015-11-11
+196;48;National Day;2017-07-21
+199;48;Armistice of 1918;2016-11-11
+221;49;Liberation Day;2016-04-25
+229;49;Assumption of Mary to Heaven;2015-08-15
+232;49;New year;2017-01-01
+238;49;All Saints Day;2017-11-01
+253;88;International Workers' Day;2015-05-01
+264;88;All Saints Day;2017-11-01
+294;88;Immaculate Conception;2015-12-08
+305;59;Bastille Day;2017-07-14
+333;59;Armistice Day;2014-11-11
+335;59;Armistice Day;2017-11-11
+349;91;Victory in Europe Day;2016-05-08
+357;91;Bastille Day;2016-07-14
+385;60;Ascension Thursday;2017-05-25
+394;60;Whit Monday;2016-05-16
+431;61;All Saints Day;2017-11-01
+432;61;Immaculate Conception;2015-12-08
+446;62;St Stephen's Day;2017-12-26
+458;62;Easter Monday;2017-04-17
+468;63;Epiphany;2015-01-06
+481;63;Assumption of Mary to Heaven;2017-08-15
+490;63;St Stephen's Day;2016-12-26
+507;64;Christmas Day;2017-12-25
+539;65;All Saints Day;2015-11-01
+562;66;Immaculate Conception;2016-12-08
+574;66;St Stephen's Day;2017-12-26
+583;68;Assumption of Mary to Heaven;2016-08-15
+604;68;All Saints Day;2015-11-01
+649;86;Epiphany;2017-01-06
+676;86;New year;2016-01-01
+679;86;Liberation Day;2017-04-25
+698;70;Christmas Day;2015-12-25
+707;70;Epiphany;2017-01-06
+708;70;Assumption of Mary to Heaven;2017-08-15
+741;71;Immaculate Conception;2016-12-08
+759;72;Good Friday;2016-03-25
+779;73;Assumption of Mary to Heaven;2017-08-15
+793;73;Assumption of Mary to Heaven;2016-08-15
+797;73;Christmas Day;2016-12-25
+821;74;Epiphany;2016-01-06
+824;74;Christmas Day;2014-12-25
+830;74;Immaculate Conception;2017-12-08
+836;74;Liberation Day;2017-04-25
+839;74;Liberation Day;2016-04-25
+845;74;Easter Monday;2017-04-17
+859;75;Epiphany;2015-01-06
+862;75;Immaculate Conception;2014-12-08
+900;76;New year;2017-01-01
+907;76;Easter Monday;2017-04-17
+908;76;Republic Day;2015-06-02
+932;77;New year;2015-01-01
+943;77;St Stephen's Day;2017-12-26
+946;77;Easter Monday;2015-04-06
+991;90;Christmas Day;2014-12-25
+1016;87;International Workers' Day;2017-05-01
+1039;87;All Saints Day;2015-11-01
+1104;2;All Saints Day;2013-11-01
+1123;3;All Saints Day;2017-11-01
+1124;3;Easter Monday;2015-04-06
+1128;3;Immaculate Conception;2015-12-08
+1137;3;Epiphany;2017-01-06
+1141;4;Assumption of Mary to Heaven;2015-08-15
+1142;4;International Workers' Day;2016-05-01
+1153;4;New year;2017-01-01
+1207;5;International Workers' Day;2017-05-01
+1217;5;Assumption of Mary to Heaven;2017-08-15
+1245;5;St Stephen's Day;2017-12-26
+1246;5;International Workers' Day;2014-05-01
+1264;6;Immaculate Conception;2016-12-08
+1327;79;Easter Monday;2017-04-17
+1343;79;Epiphany;2014-01-06
+1366;8;International Workers' Day;2017-05-01
+1369;8;St Stephen's Day;2017-12-26
+1389;8;Republic Day;2014-06-02
+1417;9;Christmas Day;2015-12-25
+1447;10;New year;2016-01-01
+1452;10;St Stephen's Day;2016-12-26
+1471;10;Assumption of Mary to Heaven;2015-08-15
+1486;12;Assumption of Mary to Heaven;2014-08-15
+1493;12;Immaculate Conception;2014-12-08
+1512;12;All Saints Day;2016-11-01
+1540;13;Assumption of Mary to Heaven;2015-08-15
+1547;13;International Workers' Day;2014-05-01
+1566;13;International Workers' Day;2015-05-01
+1576;14;Epiphany;2016-01-06
+1580;14;New year;2015-01-01
+1586;14;Immaculate Conception;2015-12-08
+1644;15;All Saints Day;2016-11-01
+1666;16;Liberation Day;2017-04-25
+1681;16;New year;2017-01-01
+1689;17;New year;2016-01-01
+1691;17;Christmas Day;2014-12-25
+1698;17;St Stephen's Day;2016-12-26
+1728;17;Easter Monday;2016-03-28
+1755;18;Christmas Day;2017-12-25
+1775;19;Immaculate Conception;2015-12-08
+1789;19;All Saints Day;2016-11-01
+1822;84;Christmas Day;2015-12-25
+1848;80;Republic Day;2016-06-02
+1902;23;Liberation Day;2016-04-25
+1907;23;Easter Monday;2016-03-28
+1967;85;Epiphany;2016-01-06
+1989;26;Christmas Day;2017-12-25
+1998;26;Assumption of Mary to Heaven;2017-08-15
+2015;27;Immaculate Conception;2017-12-08
+2027;27;Easter Monday;2017-04-17
+2098;29;Day of reconcilation;2015-12-16
+2102;29;Workers Day;2016-05-01
+2106;29;Youth Day;2015-06-16
+2109;29;Good Friday;2015-04-03
+2121;30;Workers Day substitute;2016-05-02
+2123;30;National Elections;2014-05-07
+2135;30;Good Friday;2015-04-03
+2143;30;Christmas Day;2015-12-25
+2147;30;Freedom Day substitute;2014-04-28
+2172;31;Christmas Day substitute;2016-12-26
+2175;31;Heritage Day;2016-09-24
+2202;31;National Women Day;2014-08-09
+2226;32;Workers Day;2014-05-01
+2230;32;National Women Day;2016-08-09
+2240;32;New year;2016-01-01
+2253;32;National Women Day;2014-08-09
+2266;33;New year;2014-01-01
+2274;33;Family Day;2016-03-25
+2294;33;Day of good will;2016-12-26
+2322;35;Freedom Day;2016-04-27
+2348;35;Human Rights Day;2015-03-21
+2393;38;Republic Day;2016-06-02
+2404;38;Liberation Day;2016-04-25
+2412;39;Republic Day;2017-06-02
+2414;39;Immaculate Conception;2017-12-08
+2420;39;Easter Monday;2017-04-17
+2424;39;New year;2017-01-01
+2427;39;Christmas Day;2016-12-25
+2443;39;International Workers' Day;2017-05-01
+2452;40;Easter Monday;2017-04-17
+2500;43;Assumption of Mary to Heaven;2015-08-15
+2509;43;Good Friday;2015-04-03
+2543;44;Slovak National Uprising anniversary;2016-08-29
+2567;44;Day of Blessed Virgin Mary, patron saint of Slovakia;2014-09-15
+2583;44;All Saints Day;2014-11-01
+2597;44;Slovak National Uprising anniversary;2014-08-29
+2602;45;All Saints Day;2017-11-01
+2606;45;St Stephen's Day;2017-12-26
+2618;45;Immaculate Conception;2016-12-08
+2679;51;Whit Sunday;2016-05-15
+2715;52;Immaculate Conception;2016-12-08
+2723;52;International Workers' Day;2015-05-01
+2735;52;International Workers' Day;2016-05-01
+2747;54;Easter Monday;2014-04-21
+2772;54;New year;2016-01-01
+2794;55;Assumption of Mary to Heaven;2015-08-15
+2839;57;Assumption of Mary to Heaven;2017-08-15
+2841;57;All Saints Day;2015-11-01
+2845;57;International Workers' Day;2016-05-01
+2859;57;New year;2017-01-01
+2865;57;Republic Day;2017-06-02
+2883;89;Immaculate Conception;2016-12-08
+2889;89;Epiphany;2015-01-06
+2963;58;Boxing Day;2009-12-26
+2964;58;New year;2014-01-01
+2974;58;Berchtold's Day;2010-01-02
+2985;58;Easter Sunday;2012-04-08
+3008;58;New year;2016-01-01
+3014;58;Good Friday;2010-04-02
+3017;67;New year;2016-01-01
+3029;67;All Saints Day;2017-11-01
+3051;7;Christmas Day;2016-12-25
+3057;7;International Workers' Day;2015-05-01
+3108;11;Epiphany;2017-01-06
+3140;22;New year;2016-01-01
+3185;47;Epiphany;2017-01-06
+3255;56;Ascension Thursday;2017-05-25
+12;20;Confederate Heroes Day (Observed);2014-01-20
+63;20;Lyndon B. Jonhson Day (Observed);2017-08-28
+71;20;Day After Christmas (Observed);2015-12-25
+98;34;New year (Observed);2017-01-02
+141;42;Assumption of Mary to Heaven;2015-08-15
+142;42;New year;2016-01-01
+160;42;Easter Monday;2014-04-21
+166;42;Easter Monday;2016-03-28
+193;48;Whit Monday;2016-05-16
+198;48;New year;2016-01-01
+217;49;Assumption of Mary to Heaven;2016-08-15
+266;88;St Stephen's Day;2017-12-26
+271;88;All Saints Day;2014-11-01
+281;88;All Saints Day;2016-11-01
+292;88;Liberation Day;2015-04-25
+365;91;Labour Day;2017-05-01
+370;91;All Saints Day;2016-11-01
+371;91;Victory in Europe Day;2015-05-08
+376;60;Labour Day;2017-05-01
+384;60;Bastille Day;2016-07-14
+387;60;Christmas Day;2017-12-25
+395;60;Armistice Day;2016-11-11
+402;60;Labour Day;2015-05-01
+414;61;Epiphany;2016-01-06
+440;62;All Saints Day;2016-11-01
+442;62;Liberation Day;2016-04-25
+474;63;Republic Day;2016-06-02
+489;63;Liberation Day;2016-04-25
+508;64;All Saints Day;2015-11-01
+518;64;Epiphany;2017-01-06
+536;65;All Saints Day;2017-11-01
+560;66;Assumption of Mary to Heaven;2016-08-15
+607;68;Immaculate Conception;2015-12-08
+622;69;Christmas Day;2016-12-25
+625;69;Easter Monday;2015-04-06
+633;69;All Saints Day;2015-11-01
+642;69;New year;2015-01-01
+644;69;All Saints Day;2016-11-01
+645;69;Epiphany;2017-01-06
+647;86;Liberation Day;2016-04-25
+655;86;Republic Day;2017-06-02
+660;86;Epiphany;2016-01-06
+662;86;New year;2017-01-01
+663;86;Easter Monday;2017-04-17
+667;86;Immaculate Conception;2016-12-08
+682;70;International Workers' Day;2016-05-01
+693;70;Immaculate Conception;2015-12-08
+699;70;Republic Day;2017-06-02
+806;73;Christmas Day;2017-12-25
+827;74;International Workers' Day;2015-05-01
+885;75;Assumption of Mary to Heaven;2016-08-15
+898;76;Assumption of Mary to Heaven;2016-08-15
+913;76;Easter Monday;2016-03-28
+939;77;Easter Monday;2016-03-28
+950;77;Liberation Day;2016-04-25
+951;77;Liberation Day;2017-04-25
+966;90;Christmas Day;2017-12-25
+986;90;Epiphany;2015-01-06
+1021;87;Assumption of Mary to Heaven;2016-08-15
+1025;87;Republic Day;2017-06-02
+1034;87;Liberation Day;2017-04-25
+1036;87;Immaculate Conception;2017-12-08
+1060;1;Assumption of Mary to Heaven;2017-08-15
+1070;1;Liberation Day;2015-04-25
+1072;1;Epiphany;2016-01-06
+1082;1;Epiphany;2015-01-06
+1092;2;New year;2013-01-01
+1097;2;Assumption of Mary to Heaven;2014-08-15
+1099;2;Christmas Day;2013-12-25
+1109;3;St Stephen's Day;2015-12-26
+1138;3;All Saints Day;2015-11-01
+1140;4;International Workers' Day;2015-05-01
+1152;4;Immaculate Conception;2015-12-08
+1170;4;Immaculate Conception;2017-12-08
+1173;81;All Saints Day;2015-11-01
+1196;81;Assumption of Mary to Heaven;2015-08-15
+1200;81;Liberation Day;2015-04-25
+1236;5;Easter Monday;2017-04-17
+1248;5;All Saints Day;2015-11-01
+1259;6;International Workers' Day;2017-05-01
+1295;83;New year;2015-01-01
+1305;83;Christmas Day;2015-12-25
+1351;79;Epiphany;2017-01-06
+1356;79;New year;2014-01-01
+1376;8;St Stephen's Day;2016-12-26
+1399;8;Easter Monday;2017-04-17
+1407;9;Epiphany;2015-01-06
+1421;9;Epiphany;2014-01-06
+1422;9;Assumption of Mary to Heaven;2015-08-15
+1423;9;New year;2015-01-01
+1435;9;Epiphany;2016-01-06
+1455;10;Liberation Day;2015-04-25
+1494;12;Christmas Day;2015-12-25
+1507;12;New year;2016-01-01
+1544;13;Epiphany;2016-01-06
+1563;13;Liberation Day;2015-04-25
+1592;14;Epiphany;2017-01-06
+1613;78;Assumption of Mary to Heaven;2016-08-15
+1631;15;Easter Monday;2015-04-06
+1640;15;New year;2015-01-01
+1645;15;Republic Day;2015-06-02
+1657;16;Immaculate Conception;2017-12-08
+1673;16;Liberation Day;2015-04-25
+1714;17;Immaculate Conception;2014-12-08
+1744;18;St Stephen's Day;2016-12-26
+1761;18;Epiphany;2015-01-06
+1783;19;Liberation Day;2015-04-25
+1812;84;Christmas Day;2014-12-25
+1831;84;Assumption of Mary to Heaven;2016-08-15
+1860;80;International Workers' Day;2015-05-01
+1863;80;Republic Day;2017-06-02
+1867;80;Immaculate Conception;2017-12-08
+1871;80;Immaculate Conception;2015-12-08
+1908;23;Immaculate Conception;2016-12-08
+1957;25;St Stephen's Day;2017-12-26
+1978;85;Epiphany;2017-01-06
+2003;26;Republic Day;2016-06-02
+2029;27;St Stephen's Day;2017-12-26
+2034;28;Christmas Day;2015-12-25
+2041;28;St Stephen's Day;2016-12-26
+2060;28;International Workers' Day;2016-05-01
+2063;29;Workers Day substitute;2016-05-02
+2068;29;Heritage Day;2014-09-24
+2069;29;Workers Day;2015-05-01
+2089;29;Boxing Day;2016-12-26
+2111;30;National Women Day;2014-08-09
+2154;30;Human Rights Day;2016-03-21
+2174;31;National Women Day;2016-08-09
+2196;31;Youth Day;2015-06-16
+2205;31;Human Rights Day;2015-03-21
+2207;32;Youth Day;2016-06-16
+2208;32;Day of good will;2016-12-26
+2221;32;Family Day;2016-03-25
+2223;32;Workers Day;2016-05-01
+2286;33;Good Friday;2016-03-25
+2289;33;Christmas Day substitute;2016-12-26
+2315;35;Freedom Day;2015-04-27
+2338;35;Christmas Day;2014-12-25
+2346;35;Local Elections;2016-08-03
+2354;35;New year substitute;2017-01-02
+2416;39;All Saints Day;2017-11-01
+2423;39;Republic Day;2016-06-02
+2439;39;Liberation Day;2017-04-25
+2491;43;Immaculate Conception;2016-12-08
+2492;43;New year;2014-01-01
+2493;43;Good Friday;2014-04-18
+2530;44;All Saints Day;2013-11-01
+2539;44;St. Stephen's Day (The Second Christmas Day);2015-12-26
+2559;44;Good Friday;2017-04-14
+2586;44;Easter Monday;2017-04-17
+2599;45;International Workers' Day;2016-05-01
+2668;50;All Saints Day;2015-11-01
+2688;51;Easter Monday;2015-04-06
+2689;51;Whit Sunday;2015-05-24
+2727;52;Republic Day;2015-06-02
+2761;54;Republic Day;2016-06-02
+2792;55;Liberation Day;2014-04-25
+2840;57;St Stephen's Day;2014-12-26
+2851;57;All Saints Day;2016-11-01
+2853;57;Epiphany;2015-01-06
+2861;57;Liberation Day;2016-04-25
+2862;57;Assumption of Mary to Heaven;2016-08-15
+2867;57;International Workers' Day;2015-05-01
+2895;89;St Stephen's Day;2015-12-26
+2897;89;Republic Day;2016-06-02
+2910;58;National Holiday;2016-08-01
+2919;58;National Holiday;2010-08-01
+2920;58;Boxing Day;2011-12-26
+2921;58;Ascension Thursday;2012-05-17
+2927;58;Labour Day;2014-05-01
+2968;58;Labour Day;2009-05-01
+2995;58;Easter Sunday;2015-04-05
+3043;67;New year;2015-01-01
+3053;7;New year;2014-01-01
+3071;7;Liberation Day;2015-04-25
+3095;11;Assumption of Mary to Heaven;2017-08-15
+3120;11;Assumption of Mary to Heaven;2016-08-15
+3125;11;All Saints Day;2017-11-01
+3134;11;Assumption of Mary to Heaven;2014-08-15
+3161;82;Easter Sunday;2017-04-16
+3169;82;Ascension Thursday;2016-05-05
+3183;82;Christmas Day;2017-12-25
+3204;47;Immaculate Conception;2017-12-08
+3229;53;St. Stephen's Day;2016-12-26
+3250;56;Bastille Day;2017-07-14
+3252;56;Whit Monday;2016-05-16
+3254;56;Armistice Day;2015-11-11
+3265;36;Liberation Day;2017-04-25
+3275;36;St Stephen's Day;2017-12-26
+3278;36;Assumption of Mary to Heaven;2017-08-15
+3286;36;International Workers' Day;2016-05-01
+21;20;Christmas Day;2017-12-25
+26;20;San Jacinto Day;2014-04-21
+43;20;San Jacinto Day;2015-04-21
+45;20;Independence Day;2014-07-04
+61;20;Emancipation Day in Texas;2014-06-19
+65;20;Texas Independence Day;2015-03-02
+76;20;Thanksgiving Friday;2017-11-24
+84;34;Labor Day;2017-09-04
+94;34;Labor Day;2015-09-07
+97;34;Christmas Day;2015-12-25
+129;42;New year;2014-01-01
+134;42;Whit Monday;2015-05-25
+168;48;Labour Day;2014-05-01
+208;49;International Workers' Day;2017-05-01
+209;49;St Stephen's Day;2017-12-26
+237;49;Christmas Day;2016-12-25
+267;88;Assumption of Mary to Heaven;2015-08-15
+268;88;New year;2017-01-01
+274;88;All Saints Day;2015-11-01
+299;59;Christmas Day;2016-12-25
+301;59;Ascension Thursday;2016-05-05
+308;59;Assumption of Mary to Heaven;2015-08-15
+324;59;Easter Monday;2015-04-06
+347;91;Christmas Day;2015-12-25
+350;91;Bastille Day;2017-07-14
+352;91;Assumption of Mary to Heaven;2016-08-15
+372;60;Whit Monday;2015-05-25
+393;60;Easter Monday;2016-03-28
+400;60;Christmas Day;2016-12-25
+455;62;Republic Day;2017-06-02
+465;63;Easter Monday;2015-04-06
+477;63;St Stephen's Day;2015-12-26
+556;65;New year;2017-01-01
+590;68;Assumption of Mary to Heaven;2015-08-15
+595;68;Easter Monday;2015-04-06
+597;68;Liberation Day;2017-04-25
+627;69;All Saints Day;2017-11-01
+628;69;Christmas Day;2017-12-25
+629;69;Immaculate Conception;2015-12-08
+643;69;Assumption of Mary to Heaven;2017-08-15
+653;86;New year;2015-01-01
+659;86;Assumption of Mary to Heaven;2015-08-15
+670;86;Immaculate Conception;2017-12-08
+674;86;St Stephen's Day;2017-12-26
+703;70;Immaculate Conception;2017-12-08
+725;71;Easter Monday;2017-04-17
+732;71;Assumption of Mary to Heaven;2015-08-15
+744;71;Epiphany;2015-01-06
+767;72;Assunção de Nossa Senhora;2014-08-15
+770;72;Imaculada Conceição;2016-12-08
+790;73;Easter Monday;2016-03-28
+807;73;Liberation Day;2016-04-25
+823;74;Christmas Day;2016-12-25
+857;75;New year;2017-01-01
+863;75;Christmas Day;2016-12-25
+868;75;Republic Day;2017-06-02
+869;75;All Saints Day;2017-11-01
+875;75;Christmas Day;2014-12-25
+880;75;Epiphany;2014-01-06
+891;75;Liberation Day;2016-04-25
+915;76;Republic Day;2017-06-02
+927;76;International Workers' Day;2015-05-01
+936;77;Assumption of Mary to Heaven;2016-08-15
+941;77;Republic Day;2016-06-02
+961;77;Christmas Day;2017-12-25
+963;90;Liberation Day;2016-04-25
+971;90;New year;2014-01-01
+1003;90;St Stephen's Day;2016-12-26
+1037;87;All Saints Day;2014-11-01
+1053;1;International Workers' Day;2015-05-01
+1075;1;Immaculate Conception;2017-12-08
+1095;2;Republic Day;2014-06-02
+1131;3;Republic Day;2016-06-02
+1154;4;Assumption of Mary to Heaven;2016-08-15
+1176;81;New year;2015-01-01
+1204;81;Liberation Day;2016-04-25
+1213;5;St Stephen's Day;2014-12-26
+1224;5;Assumption of Mary to Heaven;2015-08-15
+1225;5;Easter Monday;2014-04-21
+1230;5;All Saints Day;2014-11-01
+1232;5;Epiphany;2016-01-06
+1234;5;New year;2014-01-01
+1237;5;International Workers' Day;2015-05-01
+1238;5;Christmas Day;2014-12-25
+1251;6;Liberation Day;2015-04-25
+1290;83;New year;2016-01-01
+1292;83;All Saints Day;2014-11-01
+1308;83;Immaculate Conception;2014-12-08
+1359;8;Christmas Day;2017-12-25
+1382;8;Epiphany;2015-01-06
+1416;9;International Workers' Day;2014-05-01
+1428;9;Easter Monday;2015-04-06
+1468;10;New year;2017-01-01
+1476;10;Immaculate Conception;2014-12-08
+1487;12;Easter Monday;2015-04-06
+1489;12;Republic Day;2015-06-02
+1520;12;All Saints Day;2015-11-01
+1522;12;Christmas Day;2014-12-25
+1529;13;New year;2015-01-01
+1542;13;St Stephen's Day;2016-12-26
+1569;14;All Saints Day;2017-11-01
+1571;14;St Stephen's Day;2015-12-26
+1623;15;Christmas Day;2016-12-25
+1629;15;International Workers' Day;2017-05-01
+1672;16;Christmas Day;2016-12-25
+1706;17;Christmas Day;2016-12-25
+1743;18;Immaculate Conception;2015-12-08
+1774;19;St Stephen's Day;2016-12-26
+1828;84;Liberation Day;2016-04-25
+1835;84;Immaculate Conception;2014-12-08
+1842;84;All Saints Day;2015-11-01
+1862;80;Epiphany;2016-01-06
+1900;23;Liberation Day;2017-04-25
+1905;23;St Stephen's Day;2016-12-26
+1912;23;Republic Day;2016-06-02
+1927;24;Republic Day;2017-06-02
+1946;25;Immaculate Conception;2017-12-08
+1951;25;New year;2016-01-01
+1984;85;International Workers' Day;2016-05-01
+1988;26;All Saints Day;2016-11-01
+2000;26;Easter Monday;2017-04-17
+2001;26;Republic Day;2017-06-02
+2025;27;Republic Day;2017-06-02
+2043;28;Republic Day;2017-06-02
+2056;28;Immaculate Conception;2017-12-08
+2075;29;National Elections;2014-05-07
+2078;29;Day of good will;2015-12-26
+2080;29;National Women Day;2016-08-09
+2085;29;Boxing Day;2014-12-26
+2119;30;Family Day;2015-04-03
+2134;30;Christmas Day;2014-12-25
+2156;30;Boxing Day;2016-12-26
+2186;31;Christmas Day;2014-12-25
+2190;31;National Women Day;2015-08-09
+2214;32;Boxing Day;2016-12-26
+2217;32;Day of reconcilation;2014-12-16
+2224;32;Christmas Day;2016-12-25
+2233;32;Heritage Day;2014-09-24
+2238;32;National Elections;2014-05-07
+2260;33;Good Friday;2015-04-03
+2283;33;Day of reconcilation;2014-12-16
+2287;33;Easter Monday;2015-04-06
+2296;33;Day of good will;2015-12-26
+2335;35;Easter Monday;2017-04-17
+2336;35;Good Friday;2014-04-18
+2339;35;Day of reconcilation;2015-12-16
+2343;35;Heritage Day;2017-09-24
+2344;35;Heritage Day;2014-09-24
+2361;35;Day of reconcilation;2017-12-16
+2391;38;Assumption of Mary to Heaven;2017-08-15
+2410;38;New year;2017-01-01
+2415;39;All Saints Day;2015-11-01
+2434;39;Christmas Day;2017-12-25
+2457;40;Epiphany;2017-01-06
+2466;41;New year;2017-01-01
+2511;43;Christmas Day;2016-12-25
+2517;43;New year;2015-01-01
+2522;44;New year;2015-01-01
+2545;44;Good Friday;2013-03-29
+2550;44;St. Stephen's Day (The Second Christmas Day);2016-12-26
+2563;44;Labour Day;2015-05-01
+2568;44;Good Friday;2015-04-03
+2604;45;All Saints Day;2016-11-01
+2622;46;Christmas Day;2017-12-25
+2629;46;St Stephen's Day;2016-12-26
+2642;50;Victory in Europe Day;2016-05-08
+2657;50;Christmas Day;2015-12-25
+2661;50;New year;2017-01-01
+2671;50;New year;2016-01-01
+2703;51;Labour Day;2017-05-01
+2742;52;St Stephen's Day;2015-12-26
+2753;54;Christmas Day;2017-12-25
+2767;54;Assumption of Mary to Heaven;2016-08-15
+2776;54;Liberation Day;2016-04-25
+2787;54;Easter Monday;2015-04-06
+2818;55;All Saints Day;2016-11-01
+2831;55;Assumption of Mary to Heaven;2017-08-15
+2835;57;St Stephen's Day;2015-12-26
+2838;57;Epiphany;2014-01-06
+2874;57;Epiphany;2017-01-06
+2884;89;All Saints Day;2017-11-01
+2909;58;Berchtold's Day;2016-01-02
+2911;58;Whit Monday;2009-06-01
+2914;58;Christmas Day;2011-12-25
+2954;58;Ascension Thursday;2014-05-29
+2992;58;Good Friday;2012-04-06
+3015;58;Whit Sunday;2011-06-12
+3037;67;Republic Day;2016-06-02
+3050;7;Immaculate Conception;2016-12-08
+3054;7;Easter Monday;2014-04-21
+3056;7;Christmas Day;2014-12-25
+3085;7;Epiphany;2016-01-06
+3200;47;New year;2017-01-01
+3218;53;Immaculate Conception;2017-12-08
+3230;53;Epiphany;2017-01-06
+3233;56;All Saints Day;2016-11-01
+3238;56;Ascension Thursday;2015-05-14
+3243;56;Victory in Europe Day;2015-05-08
+3247;56;Bastille Day;2015-07-14
+3261;56;Easter Monday;2015-04-06
+3284;36;Republic Day;2016-06-02
+9;20;Memorial Day;2017-05-29
+25;20;Christmas Eve (Observed);2016-12-23
+57;20;Day After Christmas;2015-12-26
+59;20;New year (Observed);2017-01-02
+99;34;Memorial Day;2016-05-30
+119;34;Independence Day;2017-07-04
+125;42;All Saints Day;2014-11-01
+130;42;Whit Monday;2014-06-09
+173;48;Assumption of Mary to Heaven;2015-08-15
+189;48;National Day;2016-07-21
+202;48;Whit Monday;2014-06-09
+220;49;Epiphany;2016-01-06
+222;49;Assumption of Mary to Heaven;2017-08-15
+223;49;Epiphany;2014-01-06
+246;49;St Stephen's Day;2016-12-26
+278;88;Easter Monday;2017-04-17
+285;88;International Workers' Day;2016-05-01
+288;88;Epiphany;2014-01-06
+302;59;Assumption of Mary to Heaven;2017-08-15
+316;59;Victory in Europe Day;2015-05-08
+338;59;Christmas Day;2015-12-25
+353;91;All Saints Day;2017-11-01
+386;60;Assumption of Mary to Heaven;2017-08-15
+391;60;Ascension Thursday;2016-05-05
+397;60;Armistice Day;2017-11-11
+445;62;International Workers' Day;2017-05-01
+463;63;International Workers' Day;2016-05-01
+493;64;Republic Day;2016-06-02
+502;64;All Saints Day;2017-11-01
+513;64;Assumption of Mary to Heaven;2015-08-15
+550;65;Epiphany;2016-01-06
+552;65;Assumption of Mary to Heaven;2015-08-15
+571;66;Epiphany;2016-01-06
+579;66;International Workers' Day;2016-05-01
+603;68;Epiphany;2017-01-06
+606;68;Immaculate Conception;2017-12-08
+634;69;Liberation Day;2016-04-25
+688;70;St Stephen's Day;2015-12-26
+710;70;Easter Monday;2017-04-17
+721;71;Epiphany;2017-01-06
+724;71;Christmas Day;2016-12-25
+728;71;Christmas Day;2015-12-25
+731;71;Easter Monday;2015-04-06
+763;72;Christmas Day;2014-12-25
+769;72;New year;2015-01-01
+777;73;Easter Monday;2015-04-06
+825;74;St Stephen's Day;2014-12-26
+832;74;International Workers' Day;2017-05-01
+851;74;Assumption of Mary to Heaven;2016-08-15
+873;75;New year;2016-01-01
+945;77;St Stephen's Day;2016-12-26
+995;90;Christmas Day;2016-12-25
+1001;90;International Workers' Day;2015-05-01
+1004;90;Epiphany;2014-01-06
+1010;87;Easter Monday;2016-03-28
+1040;87;St Stephen's Day;2015-12-26
+1041;87;St Stephen's Day;2016-12-26
+1043;87;All Saints Day;2017-11-01
+1055;1;St Stephen's Day;2016-12-26
+1057;1;Christmas Day;2015-12-25
+1064;1;Immaculate Conception;2015-12-08
+1081;1;Liberation Day;2017-04-25
+1106;3;International Workers' Day;2016-05-01
+1115;3;Liberation Day;2016-04-25
+1127;3;St Stephen's Day;2017-12-26
+1193;81;Epiphany;2014-01-06
+1208;5;Immaculate Conception;2014-12-08
+1214;5;Christmas Day;2016-12-25
+1277;6;Assumption of Mary to Heaven;2017-08-15
+1296;83;Republic Day;2015-06-02
+1304;83;Epiphany;2014-01-06
+1324;79;Epiphany;2015-01-06
+1326;79;New year;2017-01-01
+1338;79;All Saints Day;2016-11-01
+1374;8;International Workers' Day;2014-05-01
+1410;9;Republic Day;2016-06-02
+1420;9;Assumption of Mary to Heaven;2016-08-15
+1437;10;Republic Day;2017-06-02
+1477;10;Epiphany;2015-01-06
+1478;10;Epiphany;2016-01-06
+1479;10;St Stephen's Day;2015-12-26
+1496;12;Assumption of Mary to Heaven;2016-08-15
+1503;12;Epiphany;2015-01-06
+1517;12;Easter Monday;2017-04-17
+1518;12;New year;2017-01-01
+1557;13;Republic Day;2014-06-02
+1558;13;Republic Day;2016-06-02
+1579;14;Republic Day;2017-06-02
+1600;14;Republic Day;2015-06-02
+1632;15;Liberation Day;2016-04-25
+1637;15;Christmas Day;2015-12-25
+1638;15;St Stephen's Day;2015-12-26
+1663;16;Assumption of Mary to Heaven;2016-08-15
+1717;17;All Saints Day;2015-11-01
+1723;17;St Stephen's Day;2017-12-26
+1730;17;All Saints Day;2014-11-01
+1747;18;New year;2016-01-01
+1751;18;Immaculate Conception;2016-12-08
+1776;19;Assumption of Mary to Heaven;2015-08-15
+1796;19;Assumption of Mary to Heaven;2016-08-15
+1798;19;Republic Day;2015-06-02
+1804;84;Epiphany;2015-01-06
+1806;84;Immaculate Conception;2016-12-08
+1813;84;Assumption of Mary to Heaven;2017-08-15
+1823;84;All Saints Day;2016-11-01
+1834;84;International Workers' Day;2014-05-01
+1864;80;Christmas Day;2017-12-25
+1886;21;Liberation Day;2016-04-25
+1906;23;International Workers' Day;2016-05-01
+1918;23;Republic Day;2017-06-02
+1928;24;Easter Monday;2017-04-17
+1940;24;Liberation Day;2016-04-25
+1952;25;Assumption of Mary to Heaven;2016-08-15
+1958;25;Easter Monday;2016-03-28
+1982;85;New year;2016-01-01
+1985;85;New year;2017-01-01
+2036;28;Assumption of Mary to Heaven;2017-08-15
+2047;28;Easter Monday;2016-03-28
+2052;28;Assumption of Mary to Heaven;2015-08-15
+2055;28;Republic Day;2016-06-02
+2071;29;Freedom Day;2016-04-27
+2074;29;Workers Day;2014-05-01
+2084;29;Family Day;2014-04-18
+2096;29;Family Day;2015-04-03
+2115;30;Easter Monday;2015-04-06
+2117;30;Human Rights Day;2014-03-21
+2120;30;Freedom Day;2016-04-27
+2131;30;Family Day;2016-03-25
+2144;30;Boxing Day;2014-12-26
+2145;30;Heritage Day;2015-09-24
+2159;31;National Elections;2014-05-07
+2173;31;Boxing Day;2014-12-26
+2191;31;National Women Day substitute;2015-08-10
+2193;31;Easter Monday;2014-04-21
+2194;31;Day of reconcilation;2014-12-16
+2206;31;Heritage Day;2015-09-24
+2234;32;New year;2015-01-01
+2235;32;Christmas Day;2015-12-25
+2244;32;Youth Day;2015-06-16
+2248;32;Workers Day;2015-05-01
+2263;33;National Women Day;2014-08-09
+2275;33;Easter Monday;2014-04-21
+2280;33;Human Rights Day;2015-03-21
+2291;33;Good Friday;2014-04-18
+2295;33;National Women Day;2015-08-09
+2300;33;Easter Monday;2016-03-28
+2321;35;Good Friday;2016-03-25
+2325;35;Boxing Day;2014-12-26
+2326;35;Easter Monday;2015-04-06
+2381;37;Assumption of Mary to Heaven;2017-08-15
+2386;37;All Saints Day;2017-11-01
+2399;38;Immaculate Conception;2016-12-08
+2433;39;All Saints Day;2016-11-01
+2444;40;Republic Day;2016-06-02
+2462;40;St Stephen's Day;2016-12-26
+2471;41;International Workers' Day;2016-05-01
+2477;41;Immaculate Conception;2017-12-08
+2480;41;Republic Day;2017-06-02
+2481;41;Assumption of Mary to Heaven;2016-08-15
+2489;43;Christmas Day;2015-12-25
+2498;43;Immaculate Conception;2014-12-08
+2502;43;Immaculate Conception;2015-12-08
+2503;43;Epiphany;2014-01-06
+2507;43;Assumption of Mary to Heaven;2016-08-15
+2519;44;Saints Cyril and Methodius Day;2016-07-05
+2552;44;Saints Cyril and Methodius Day;2017-07-05
+2564;44;Day of Blessed Virgin Mary, patron saint of Slovakia;2015-09-15
+2574;44;Easter Monday;2014-04-21
+2578;44;Labour Day;2013-05-01
+2582;44;Epiphany;2014-01-06
+2598;45;Easter Monday;2016-03-28
+2609;45;Immaculate Conception;2017-12-08
+2621;46;Christmas Day;2016-12-25
+2645;50;Ascension Thursday;2015-05-14
+2656;50;Labour Day;2015-05-01
+2663;50;Easter Monday;2015-04-06
+2664;50;Christmas Day;2016-12-25
+2684;51;Whit Monday;2016-05-16
+2686;51;Christmas Day;2015-12-25
+2704;51;Ascension Thursday;2017-05-25
+2711;52;Epiphany;2016-01-06
+2737;52;Assumption of Mary to Heaven;2015-08-15
+2741;52;Immaculate Conception;2015-12-08
+2748;54;Republic Day;2014-06-02
+2752;54;International Workers' Day;2017-05-01
+2769;54;New year;2015-01-01
+2775;54;Liberation Day;2017-04-25
+2816;55;Christmas Day;2015-12-25
+2819;55;Christmas Day;2016-12-25
+2846;57;St Stephen's Day;2016-12-26
+2847;57;International Workers' Day;2014-05-01
+2873;57;Liberation Day;2015-04-25
+2878;89;St Stephen's Day;2017-12-26
+2885;89;Christmas Day;2017-12-25
+2887;89;Easter Monday;2016-03-28
+2907;89;All Saints Day;2015-11-01
+2912;58;Labour Day;2011-05-01
+2926;58;Boxing Day;2012-12-26
+2941;58;Easter Sunday;2016-03-27
+2987;58;Easter Sunday;2009-04-12
+2993;58;Whit Sunday;2012-05-27
+2994;58;Labour Day;2013-05-01
+3004;58;National Holiday;2012-08-01
+3010;58;Christmas Day;2017-12-25
+3019;67;St Stephen's Day;2015-12-26
+3036;67;Christmas Day;2016-12-25
+3040;67;Assumption of Mary to Heaven;2017-08-15
+3042;67;Republic Day;2017-06-02
+3060;7;International Workers' Day;2017-05-01
+3109;11;St Stephen's Day;2015-12-26
+3142;22;Epiphany;2016-01-06
+3150;22;Epiphany;2017-01-06
+3151;22;New year;2017-01-01
+3152;22;Republic Day;2017-06-02
+3156;22;Immaculate Conception;2016-12-08
+3157;22;Liberation Day;2017-04-25
+3175;82;Boxing Day;2017-12-26
+3181;82;Labour Day;2017-05-01
+3193;47;Republic Day;2017-06-02
+3195;47;Epiphany;2016-01-06
+3197;47;All Saints Day;2017-11-01
+3225;53;National Holiday;2016-10-26
+3231;53;Ascension Thursday;2016-05-05
+3240;56;Bastille Day;2016-07-14
+3241;56;Labour Day;2017-05-01
+3267;36;All Saints Day;2017-11-01
+3268;36;Assumption of Mary to Heaven;2016-08-15
+3;20;Washington's Birthday;2015-02-16
+8;20;Day After Christmas;2016-12-26
+39;20;Christmas Day (Observed);2017-12-27
+121;34;Washington's Birthday;2015-02-16
+155;42;Bastille Day;2017-07-14
+161;42;Ascension Thursday;2014-05-29
+169;48;Easter Monday;2015-04-06
+178;48;Christmas Day;2014-12-25
+185;48;Easter Monday;2016-03-28
+204;48;Labour Day;2017-05-01
+213;49;International Workers' Day;2014-05-01
+227;49;New year;2014-01-01
+241;49;International Workers' Day;2015-05-01
+289;88;Easter Monday;2014-04-21
+325;59;All Saints Day;2015-11-01
+342;91;Christmas Day;2017-12-25
+351;91;Assumption of Mary to Heaven;2017-08-15
+361;91;Armistice Day;2015-11-11
+369;91;Easter Monday;2016-03-28
+373;60;All Saints Day;2017-11-01
+408;61;Easter Monday;2016-03-28
+447;62;Assumption of Mary to Heaven;2016-08-15
+450;62;New year;2017-01-01
+496;64;Christmas Day;2016-12-25
+500;64;St Stephen's Day;2016-12-26
+504;64;New year;2015-01-01
+516;64;International Workers' Day;2016-05-01
+527;65;International Workers' Day;2017-05-01
+534;65;Liberation Day;2017-04-25
+542;65;Immaculate Conception;2015-12-08
+555;65;St Stephen's Day;2016-12-26
+598;68;New year;2015-01-01
+631;69;Republic Day;2015-06-02
+632;69;Epiphany;2016-01-06
+672;86;St Stephen's Day;2015-12-26
+678;86;All Saints Day;2016-11-01
+690;70;Easter Monday;2015-04-06
+697;70;New year;2015-01-01
+717;71;New year;2015-01-01
+722;71;St Stephen's Day;2017-12-26
+730;71;Christmas Day;2017-12-25
+736;71;Assumption of Mary to Heaven;2017-08-15
+740;71;All Saints Day;2015-11-01
+762;72;Dia da Liberdade;2014-04-25
+768;72;Imaculada Conceição;2014-12-08
+782;73;All Saints Day;2017-11-01
+794;73;St Stephen's Day;2016-12-26
+804;73;Liberation Day;2017-04-25
+828;74;All Saints Day;2016-11-01
+846;74;All Saints Day;2014-11-01
+848;74;St Stephen's Day;2016-12-26
+866;75;Christmas Day;2015-12-25
+870;75;International Workers' Day;2017-05-01
+874;75;St Stephen's Day;2017-12-26
+919;76;Christmas Day;2015-12-25
+925;76;Epiphany;2016-01-06
+949;77;Epiphany;2015-01-06
+960;77;Republic Day;2017-06-02
+964;90;Immaculate Conception;2016-12-08
+973;90;New year;2015-01-01
+985;90;All Saints Day;2014-11-01
+993;90;Republic Day;2017-06-02
+994;90;All Saints Day;2016-11-01
+999;90;Assumption of Mary to Heaven;2014-08-15
+1006;90;Immaculate Conception;2015-12-08
+1019;87;New year;2016-01-01
+1038;87;Epiphany;2017-01-06
+1044;87;New year;2014-01-01
+1048;87;Liberation Day;2016-04-25
+1071;1;New year;2016-01-01
+1078;1;All Saints Day;2017-11-01
+1107;3;Liberation Day;2017-04-25
+1119;3;New year;2015-01-01
+1120;3;Assumption of Mary to Heaven;2015-08-15
+1151;4;New year;2015-01-01
+1162;4;St Stephen's Day;2015-12-26
+1209;5;Liberation Day;2016-04-25
+1233;5;International Workers' Day;2016-05-01
+1249;6;Liberation Day;2017-04-25
+1261;6;Christmas Day;2017-12-25
+1266;6;New year;2015-01-01
+1268;6;Republic Day;2015-06-02
+1278;6;All Saints Day;2017-11-01
+1283;83;Easter Monday;2014-04-21
+1288;83;Christmas Day;2014-12-25
+1301;83;Republic Day;2014-06-02
+1306;83;St Stephen's Day;2016-12-26
+1317;79;Easter Monday;2014-04-21
+1322;79;St Stephen's Day;2016-12-26
+1323;79;Republic Day;2014-06-02
+1328;79;Assumption of Mary to Heaven;2014-08-15
+1334;79;Assumption of Mary to Heaven;2016-08-15
+1344;79;International Workers' Day;2015-05-01
+1346;79;New year;2016-01-01
+1373;8;Epiphany;2014-01-06
+1375;8;Christmas Day;2014-12-25
+1380;8;Immaculate Conception;2015-12-08
+1383;8;Republic Day;2015-06-02
+1400;8;International Workers' Day;2015-05-01
+1409;9;All Saints Day;2015-11-01
+1411;9;Immaculate Conception;2016-12-08
+1414;9;Christmas Day;2014-12-25
+1418;9;Liberation Day;2016-04-25
+1431;9;Easter Monday;2014-04-21
+1449;10;Assumption of Mary to Heaven;2016-08-15
+1451;10;New year;2015-01-01
+1456;10;Liberation Day;2017-04-25
+1469;10;Republic Day;2014-06-02
+1491;12;International Workers' Day;2017-05-01
+1500;12;Liberation Day;2017-04-25
+1525;13;New year;2016-01-01
+1532;13;St Stephen's Day;2015-12-26
+1572;14;International Workers' Day;2016-05-01
+1574;14;International Workers' Day;2015-05-01
+1587;14;New year;2016-01-01
+1605;78;Assumption of Mary to Heaven;2017-08-15
+1607;78;New year;2017-01-01
+1636;15;Liberation Day;2017-04-25
+1642;15;All Saints Day;2015-11-01
+1652;15;Immaculate Conception;2016-12-08
+1671;16;Liberation Day;2016-04-25
+1704;17;Immaculate Conception;2016-12-08
+1718;17;Immaculate Conception;2017-12-08
+1719;17;New year;2014-01-01
+1727;17;Assumption of Mary to Heaven;2014-08-15
+1736;18;Assumption of Mary to Heaven;2017-08-15
+1745;18;Liberation Day;2017-04-25
+1746;18;All Saints Day;2015-11-01
+1779;19;All Saints Day;2015-11-01
+1802;84;All Saints Day;2017-11-01
+1808;84;Immaculate Conception;2017-12-08
+1879;21;International Workers' Day;2017-05-01
+1884;21;Christmas Day;2017-12-25
+1933;24;International Workers' Day;2017-05-01
+1948;25;Immaculate Conception;2016-12-08
+1965;85;Christmas Day;2017-12-25
+1974;85;Easter Monday;2017-04-17
+1991;26;International Workers' Day;2017-05-01
+2030;28;Liberation Day;2017-04-25
+2049;28;Immaculate Conception;2016-12-08
+2072;29;Heritage Day;2016-09-24
+2086;29;National Women Day substitute;2015-08-10
+2099;29;Day of good will;2014-12-26
+2104;29;Christmas Day;2015-12-25
+2105;29;Human Rights Day;2014-03-21
+2124;30;Day of good will;2014-12-26
+2125;30;Youth Day;2015-06-16
+2158;30;Family Day;2014-04-18
+2231;32;Day of reconcilation;2015-12-16
+2245;32;Boxing Day;2015-12-26
+2271;33;Christmas Day;2014-12-25
+2272;33;Workers Day;2015-05-01
+2316;35;Workers Day;2016-05-01
+2355;35;Good Friday;2017-04-14
+2362;35;New year;2016-01-01
+2363;35;Freedom Day;2017-04-27
+2366;35;Youth Day;2015-06-16
+2402;38;St Stephen's Day;2016-12-26
+2419;39;Liberation Day;2016-04-25
+2425;39;Republic Day;2015-06-02
+2436;39;Immaculate Conception;2016-12-08
+2449;40;International Workers' Day;2017-05-01
+2456;40;Liberation Day;2016-04-25
+2459;40;Immaculate Conception;2017-12-08
+2463;40;New year;2017-01-01
+2470;41;Easter Monday;2016-03-28
+2474;41;Republic Day;2016-06-02
+2521;44;Struggle for Freedom and Democracy Day;2017-11-17
+2560;44;Christmas Eve;2013-12-24
+2569;44;Easter Monday;2015-04-06
+2570;44;Liberation Day;2015-05-08
+2577;44;Liberation Day;2017-05-08
+2580;44;St. Stephen's Day (The Second Christmas Day);2013-12-26
+2591;44;Labour Day;2017-05-01
+2641;46;Immaculate Conception;2017-12-08
+2649;50;Bastille Day;2015-07-14
+2650;50;Christmas Day;2017-12-25
+2659;50;Whit Monday;2015-05-25
+2660;50;Assumption of Mary to Heaven;2016-08-15
+2720;52;Republic Day;2017-06-02
+2740;52;Christmas Day;2017-12-25
+2744;54;Epiphany;2016-01-06
+2759;54;Assumption of Mary to Heaven;2014-08-15
+2770;54;Republic Day;2017-06-02
+2793;55;Immaculate Conception;2014-12-08
+2801;55;St Stephen's Day;2016-12-26
+2810;55;Christmas Day;2017-12-25
+2814;55;New year;2017-01-01
+2843;57;Liberation Day;2017-04-25
+2855;57;Immaculate Conception;2015-12-08
+2900;89;New year;2015-01-01
+2906;89;Assumption of Mary to Heaven;2017-08-15
+2951;58;Good Friday;2009-04-10
+2956;58;Good Friday;2015-04-03
+2961;58;Christmas Day;2016-12-25
+2972;58;Christmas Day;2012-12-25
+2976;58;Good Friday;2011-04-22
+2986;58;Labour Day;2016-05-01
+2988;58;Easter Sunday;2011-04-24
+3006;58;National Holiday;2014-08-01
+3011;58;Boxing Day;2017-12-26
+3023;67;International Workers' Day;2016-05-01
+3028;67;St Stephen's Day;2016-12-26
+3048;67;International Workers' Day;2015-05-01
+3061;7;New year;2017-01-01
+3080;7;St Stephen's Day;2015-12-26
+3111;11;International Workers' Day;2015-05-01
+3155;22;International Workers' Day;2016-05-01
+3167;82;New year;2017-01-01
+3172;82;Good Friday;2016-03-25
+3173;82;Ascension Thursday;2017-05-25
+3199;47;All Saints Day;2016-11-01
+3210;53;St. Stephen's Day;2017-12-26
+3212;53;All Saints Day;2017-11-01
+3222;53;Epiphany;2016-01-06
+3227;53;Whit Monday;2016-05-16
+3249;56;Victory in Europe Day;2016-05-08
+38;20;Labor Day;2017-09-04
+56;20;Memorial Day;2015-05-25
+68;20;Independence Day;2017-07-04
+82;34;Birthday of Martin Luther King, Jr.;2016-01-18
+103;34;Good Friday;2015-04-03
+148;42;Labour Day;2015-05-01
+151;42;Labour Day;2014-05-01
+152;42;Bastille Day;2015-07-14
+206;48;New year;2015-01-01
+236;49;Assumption of Mary to Heaven;2014-08-15
+255;88;Republic Day;2017-06-02
+256;88;International Workers' Day;2014-05-01
+262;88;Liberation Day;2016-04-25
+283;88;New year;2016-01-01
+286;88;Assumption of Mary to Heaven;2016-08-15
+340;91;Ascension Thursday;2017-05-25
+343;91;All Saints Day;2015-11-01
+344;91;New year;2016-01-01
+356;91;Ascension Thursday;2015-05-14
+378;60;New year;2017-01-01
+424;61;Immaculate Conception;2016-12-08
+436;61;Christmas Day;2015-12-25
+452;62;Immaculate Conception;2016-12-08
+521;64;Immaculate Conception;2017-12-08
+523;64;Assumption of Mary to Heaven;2017-08-15
+570;66;New year;2016-01-01
+572;66;Christmas Day;2016-12-25
+575;66;All Saints Day;2016-11-01
+585;68;St Stephen's Day;2016-12-26
+587;68;St Stephen's Day;2015-12-26
+608;68;Epiphany;2016-01-06
+615;69;Immaculate Conception;2017-12-08
+639;69;Epiphany;2015-01-06
+671;86;Epiphany;2015-01-06
+700;70;St Stephen's Day;2017-12-26
+713;71;New year;2016-01-01
+739;71;All Saints Day;2017-11-01
+747;72;Dia de Portugal;2015-06-10
+749;72;Christmas Day;2015-12-25
+755;72;Easter Sunday;2016-03-27
+781;73;Immaculate Conception;2015-12-08
+788;73;International Workers' Day;2016-05-01
+803;73;St Stephen's Day;2015-12-26
+829;74;All Saints Day;2017-11-01
+835;74;New year;2017-01-01
+856;75;International Workers' Day;2014-05-01
+860;75;Republic Day;2016-06-02
+865;75;Assumption of Mary to Heaven;2014-08-15
+881;75;Epiphany;2017-01-06
+883;75;Easter Monday;2014-04-21
+914;76;Immaculate Conception;2016-12-08
+917;76;Christmas Day;2017-12-25
+944;77;Christmas Day;2016-12-25
+953;77;New year;2016-01-01
+974;90;All Saints Day;2017-11-01
+976;90;Easter Monday;2014-04-21
+981;90;All Saints Day;2015-11-01
+997;90;Republic Day;2015-06-02
+1022;87;International Workers' Day;2014-05-01
+1024;87;New year;2015-01-01
+1033;87;Republic Day;2015-06-02
+1098;2;St Stephen's Day;2014-12-26
+1114;3;New year;2017-01-01
+1174;81;Christmas Day;2015-12-25
+1205;5;Easter Monday;2016-03-28
+1216;5;All Saints Day;2016-11-01
+1218;5;Republic Day;2014-06-02
+1231;5;Republic Day;2015-06-02
+1252;6;Republic Day;2016-06-02
+1255;6;Epiphany;2017-01-06
+1260;6;Assumption of Mary to Heaven;2016-08-15
+1267;6;International Workers' Day;2016-05-01
+1287;83;Christmas Day;2016-12-25
+1307;83;International Workers' Day;2016-05-01
+1311;83;Immaculate Conception;2015-12-08
+1339;79;Liberation Day;2015-04-25
+1350;79;All Saints Day;2014-11-01
+1367;8;Easter Monday;2016-03-28
+1398;8;Christmas Day;2016-12-25
+1438;10;Immaculate Conception;2015-12-08
+1443;10;International Workers' Day;2016-05-01
+1463;10;All Saints Day;2014-11-01
+1482;12;Liberation Day;2014-04-25
+1530;13;Epiphany;2014-01-06
+1555;13;Epiphany;2015-01-06
+1575;14;Christmas Day;2015-12-25
+1584;14;Liberation Day;2017-04-25
+1585;14;St Stephen's Day;2017-12-26
+1596;14;Liberation Day;2015-04-25
+1639;15;Republic Day;2016-06-02
+1676;16;New year;2015-01-01
+1680;16;All Saints Day;2015-11-01
+1693;17;Easter Monday;2015-04-06
+1694;17;All Saints Day;2016-11-01
+1709;17;St Stephen's Day;2015-12-26
+1716;17;Easter Monday;2017-04-17
+1720;17;Republic Day;2014-06-02
+1737;18;International Workers' Day;2016-05-01
+1748;18;Christmas Day;2015-12-25
+1764;18;Liberation Day;2015-04-25
+1768;19;New year;2016-01-01
+1772;19;Immaculate Conception;2016-12-08
+1792;19;St Stephen's Day;2017-12-26
+1830;84;Easter Monday;2016-03-28
+1836;84;St Stephen's Day;2015-12-26
+1849;80;Christmas Day;2016-12-25
+1852;80;International Workers' Day;2016-05-01
+1873;80;St Stephen's Day;2015-12-26
+1880;21;Republic Day;2017-06-02
+1883;21;Christmas Day;2016-12-25
+1890;21;Liberation Day;2017-04-25
+1910;23;Assumption of Mary to Heaven;2017-08-15
+1929;24;St Stephen's Day;2017-12-26
+1971;85;Christmas Day;2016-12-25
+1973;85;International Workers' Day;2017-05-01
+1987;26;International Workers' Day;2016-05-01
+1992;26;New year;2016-01-01
+2045;28;New year;2015-01-01
+2064;29;Good Friday;2014-04-18
+2070;29;Youth Day;2016-06-16
+2082;29;Freedom Day;2014-04-27
+2140;30;Day of good will;2015-12-26
+2151;30;National Women Day;2015-08-09
+2178;31;Christmas Day;2016-12-25
+2182;31;Good Friday;2014-04-18
+2184;31;Easter Monday;2016-03-28
+2216;32;Good Friday;2014-04-18
+2237;32;Freedom Day;2014-04-27
+2239;32;Christmas Day;2014-12-25
+2252;32;Heritage Day;2016-09-24
+2259;33;Boxing Day;2014-12-26
+2270;33;Youth Day;2016-06-16
+2290;33;Family Day;2014-04-18
+2299;33;Family Day;2015-04-03
+2302;33;Freedom Day;2014-04-27
+2314;35;Easter Monday;2014-04-21
+2332;35;Heritage Day substitute;2017-09-25
+2342;35;Heritage Day;2016-09-24
+2365;35;Youth Day;2014-06-16
+2367;37;Christmas Day;2016-12-25
+2371;37;New year;2017-01-01
+2385;37;Easter Monday;2016-03-28
+2405;38;Republic Day;2017-06-02
+2421;39;St Stephen's Day;2017-12-26
+2450;40;All Saints Day;2017-11-01
+2465;40;New year;2016-01-01
+2490;43;Día del trabajador;2015-05-01
+2504;43;All Saints Day;2016-11-01
+2524;44;Christmas Eve;2016-12-24
+2525;44;Saints Cyril and Methodius Day;2014-07-05
+2535;44;Epiphany;2013-01-06
+2538;44;Christmas Eve;2015-12-24
+2566;44;New year;2016-01-01
+2590;44;Easter Monday;2016-03-28
+2610;45;International Workers' Day;2017-05-01
+2640;46;New year;2017-01-01
+2658;50;Bastille Day;2016-07-14
+2673;50;Bastille Day;2017-07-14
+2696;51;Labour Day;2016-05-01
+2739;52;International Workers' Day;2017-05-01
+2765;54;Assumption of Mary to Heaven;2017-08-15
+2798;55;International Workers' Day;2015-05-01
+2821;55;Easter Monday;2016-03-28
+2834;57;Christmas Day;2014-12-25
+2852;57;Immaculate Conception;2017-12-08
+2857;57;Assumption of Mary to Heaven;2014-08-15
+2860;57;Easter Monday;2017-04-17
+2891;89;Epiphany;2016-01-06
+2894;89;Assumption of Mary to Heaven;2015-08-15
+2896;89;New year;2017-01-01
+2916;58;New year;2015-01-01
+2945;58;Berchtold's Day;2013-01-02
+2946;58;Good Friday;2013-03-29
+3001;58;Boxing Day;2010-12-26
+3021;67;Christmas Day;2017-12-25
+3027;67;Immaculate Conception;2016-12-08
+3045;67;Immaculate Conception;2017-12-08
+3064;7;Assumption of Mary to Heaven;2015-08-15
+3112;11;New year;2014-01-01
+3118;11;St Stephen's Day;2017-12-26
+3127;11;Easter Monday;2015-04-06
+3187;47;Assumption of Mary to Heaven;2017-08-15
+3198;47;Christmas Day;2016-12-25
+3203;47;Immaculate Conception;2016-12-08
+3244;56;Labour Day;2015-05-01
+3246;56;Armistice Day;2017-11-11
+3266;36;International Workers' Day;2017-05-01
+3277;36;Republic Day;2017-06-02
+3283;36;Easter Monday;2016-03-28
+34;20;Emancipation Day in Texas;2015-06-19
+46;20;Labor Day;2014-09-01
+53;20;Christmas Eve (Observed);2017-12-25
+60;20;Veterans Day (Observed);2017-11-10
+66;20;Christmas Eve;2015-12-24
+77;20;New year;2014-01-01
+80;20;Birthday of Martin Luther King, Jr.;2014-01-20
+107;34;Labor Day;2016-09-05
+115;34;Christmas Day;2016-12-25
+116;34;Thanksgiving Day;2015-11-26
+127;42;Armistice Day;2015-11-11
+132;42;Assumption of Mary to Heaven;2016-08-15
+137;42;Christmas Day;2017-12-25
+150;42;Victory in Europe Day;2017-05-08
+154;42;New year;2017-01-01
+225;49;Christmas Day;2015-12-25
+234;49;Epiphany;2015-01-06
+235;49;Easter Monday;2015-04-06
+249;49;Liberation Day;2014-04-25
+261;88;Christmas Day;2015-12-25
+273;88;Immaculate Conception;2016-12-08
+279;88;Easter Monday;2016-03-28
+315;59;Victory in Europe Day;2014-05-08
+337;59;Armistice Day;2015-11-11
+348;91;Easter Monday;2015-04-06
+390;60;Victory in Europe Day;2015-05-08
+409;61;St Stephen's Day;2017-12-26
+423;61;Easter Monday;2017-04-17
+429;61;International Workers' Day;2016-05-01
+451;62;All Saints Day;2017-11-01
+453;62;Liberation Day;2017-04-25
+475;63;Immaculate Conception;2016-12-08
+501;64;Liberation Day;2017-04-25
+506;64;Easter Monday;2017-04-17
+509;64;Liberation Day;2016-04-25
+533;65;Epiphany;2017-01-06
+535;65;Republic Day;2017-06-02
+544;65;Easter Monday;2015-04-06
+564;66;International Workers' Day;2017-05-01
+589;68;Christmas Day;2017-12-25
+600;68;International Workers' Day;2015-05-01
+601;68;New year;2016-01-01
+610;68;Easter Monday;2017-04-17
+612;68;Assumption of Mary to Heaven;2017-08-15
+650;86;International Workers' Day;2017-05-01
+657;86;Assumption of Mary to Heaven;2017-08-15
+668;86;St Stephen's Day;2016-12-26
+686;70;Assumption of Mary to Heaven;2016-08-15
+694;70;New year;2016-01-01
+702;70;Republic Day;2016-06-02
+715;71;Assumption of Mary to Heaven;2016-08-15
+718;71;Immaculate Conception;2015-12-08
+720;71;International Workers' Day;2015-05-01
+726;71;International Workers' Day;2017-05-01
+734;71;New year;2017-01-01
+737;71;Republic Day;2015-06-02
+742;71;St Stephen's Day;2016-12-26
+743;71;Easter Monday;2016-03-28
+773;72;Entrudo;2016-02-09
+784;73;Immaculate Conception;2017-12-08
+801;73;All Saints Day;2015-11-01
+811;74;International Workers' Day;2014-05-01
+812;74;Republic Day;2015-06-02
+818;74;Assumption of Mary to Heaven;2015-08-15
+834;74;St Stephen's Day;2015-12-26
+838;74;Easter Monday;2014-04-21
+850;74;New year;2015-01-01
+892;75;Republic Day;2014-06-02
+897;76;Republic Day;2016-06-02
+920;76;All Saints Day;2016-11-01
+924;76;Easter Monday;2015-04-06
+926;76;Epiphany;2017-01-06
+933;77;International Workers' Day;2015-05-01
+934;77;St Stephen's Day;2015-12-26
+947;77;Liberation Day;2015-04-25
+956;77;Epiphany;2016-01-06
+965;90;Easter Monday;2017-04-17
+983;90;Easter Monday;2016-03-28
+1018;87;Easter Monday;2015-04-06
+1020;87;Christmas Day;2016-12-25
+1026;87;Liberation Day;2014-04-25
+1027;87;Epiphany;2015-01-06
+1059;1;International Workers' Day;2017-05-01
+1067;1;Easter Monday;2017-04-17
+1101;2;Christmas Day;2014-12-25
+1108;3;International Workers' Day;2017-05-01
+1150;4;Liberation Day;2015-04-25
+1155;4;Christmas Day;2015-12-25
+1167;4;Republic Day;2016-06-02
+1171;4;Easter Monday;2017-04-17
+1191;81;All Saints Day;2016-11-01
+1257;6;Liberation Day;2016-04-25
+1281;6;Republic Day;2017-06-02
+1297;83;Epiphany;2016-01-06
+1298;83;Republic Day;2016-06-02
+1319;79;Easter Monday;2015-04-06
+1321;79;Assumption of Mary to Heaven;2015-08-15
+1325;79;Immaculate Conception;2015-12-08
+1365;8;Christmas Day;2015-12-25
+1378;8;Assumption of Mary to Heaven;2015-08-15
+1384;8;St Stephen's Day;2015-12-26
+1387;8;Epiphany;2016-01-06
+1396;8;Epiphany;2017-01-06
+1433;9;International Workers' Day;2015-05-01
+1439;10;Republic Day;2016-06-02
+1442;10;International Workers' Day;2017-05-01
+1444;10;All Saints Day;2016-11-01
+1461;10;Christmas Day;2015-12-25
+1475;10;International Workers' Day;2014-05-01
+1492;12;Epiphany;2016-01-06
+1499;12;St Stephen's Day;2014-12-26
+1516;12;Epiphany;2017-01-06
+1526;13;Assumption of Mary to Heaven;2017-08-15
+1625;15;Republic Day;2017-06-02
+1646;15;Epiphany;2016-01-06
+1648;15;New year;2017-01-01
+1661;16;Christmas Day;2015-12-25
+1662;16;St Stephen's Day;2015-12-26
+1668;16;Easter Monday;2017-04-17
+1683;16;Assumption of Mary to Heaven;2017-08-15
+1712;17;Assumption of Mary to Heaven;2017-08-15
+1713;17;Easter Monday;2014-04-21
+1742;18;International Workers' Day;2015-05-01
+1752;18;Christmas Day;2016-12-25
+1754;18;Immaculate Conception;2017-12-08
+1770;19;Liberation Day;2016-04-25
+1771;19;International Workers' Day;2016-05-01
+1843;80;Easter Monday;2017-04-17
+1850;80;All Saints Day;2017-11-01
+1877;21;Easter Monday;2017-04-17
+1892;21;All Saints Day;2017-11-01
+1925;24;Immaculate Conception;2016-12-08
+1949;25;Christmas Day;2016-12-25
+1960;25;Easter Monday;2017-04-17
+1995;26;Epiphany;2016-01-06
+2022;27;New year;2017-01-01
+2031;28;Christmas Day;2017-12-25
+2040;28;Christmas Day;2016-12-25
+2061;28;New year;2017-01-01
+2067;29;Good Friday;2016-03-25
+2101;29;National Women Day;2015-08-09
+2127;30;Easter Monday;2016-03-28
+2153;30;Human Rights Day;2015-03-21
+2166;31;Family Day;2014-04-18
+2168;31;Good Friday;2015-04-03
+2181;31;New year;2014-01-01
+2183;31;Family Day;2016-03-25
+2188;31;Freedom Day;2016-04-27
+2220;32;Heritage Day;2015-09-24
+2228;32;National Women Day substitute;2015-08-10
+2232;32;Youth Day;2014-06-16
+2251;32;Family Day;2015-04-03
+2256;33;National Women Day;2016-08-09
+2273;33;New year;2016-01-01
+2279;33;Human Rights Day;2014-03-21
+2304;35;Christmas Day;2017-12-25
+2319;35;National Women Day;2015-08-09
+2331;35;Family Day;2017-04-14
+2333;35;Day of good will;2014-12-26
+2334;35;Boxing Day;2016-12-26
+2360;35;Human Rights Day;2016-03-21
+2426;39;Epiphany;2015-01-06
+2432;39;Christmas Day;2015-12-25
+2445;40;Easter Monday;2016-03-28
+2467;41;Immaculate Conception;2016-12-08
+2469;41;Christmas Day;2017-12-25
+2473;41;Epiphany;2017-01-06
+2478;41;International Workers' Day;2017-05-01
+2488;43;Epiphany;2016-01-06
+2513;43;Christmas Day;2014-12-25
+2527;44;Day of the Constitution of the Slovak Republic;2016-09-01
+2556;44;Christmas Eve;2017-12-24
+2561;44;Struggle for Freedom and Democracy Day;2014-11-17
+2587;44;Day of the Establishment of the Slovak Republic;2013-01-01
+2588;44;Slovak National Uprising anniversary;2015-08-29
+2625;46;New year;2016-01-01
+2634;46;All Saints Day;2017-11-01
+2708;51;Easter Monday;2017-04-17
+2716;52;Assumption of Mary to Heaven;2017-08-15
+2749;54;Assumption of Mary to Heaven;2015-08-15
+2768;54;All Saints Day;2016-11-01
+2856;57;St Stephen's Day;2017-12-26
+2875;57;Assumption of Mary to Heaven;2015-08-15
+2879;89;Immaculate Conception;2015-12-08
+2917;58;National Holiday;2017-08-01
+2923;58;Whit Sunday;2017-06-04
+2931;58;Easter Monday;2013-04-01
+2934;58;Easter Monday;2015-04-06
+2966;58;Labour Day;2017-05-01
+2999;58;National Holiday;2009-08-01
+3025;67;International Workers' Day;2017-05-01
+3035;67;Epiphany;2016-01-06
+3039;67;Liberation Day;2015-04-25
+3041;67;Liberation Day;2016-04-25
+3047;67;Easter Monday;2015-04-06
+3059;7;Easter Monday;2017-04-17
+3079;7;Republic Day;2014-06-02
+3135;11;All Saints Day;2016-11-01
+3166;82;Whit Monday;2016-05-16
+3202;47;Easter Monday;2017-04-17
+3209;53;Corpus Christi;2016-05-26
+3213;53;Easter Monday;2016-03-28
+3223;53;Corpus Christi;2017-06-15
+3224;53;Assumption of Mary to Heaven;2017-08-15
+3263;56;Easter Monday;2017-04-17
+3274;36;Christmas Day;2017-12-25
+19;20;Thanksgiving Day;2016-11-24
+41;20;Christmas Eve;2014-12-24
+55;20;Confederate Heroes Day;2015-01-19
+81;20;Christmas Day;2015-12-25
+87;34;Independence Day;2015-07-04
+105;34;Good Friday;2017-04-14
+144;42;Victory in Europe Day;2015-05-08
+157;42;Whit Monday;2016-05-16
+158;42;Easter Monday;2017-04-17
+162;42;Labour Day;2016-05-01
+177;48;All Saints Day;2014-11-01
+200;48;Christmas Day;2016-12-25
+210;49;Liberation Day;2015-04-25
+216;49;International Workers' Day;2016-05-01
+218;49;All Saints Day;2016-11-01
+219;49;Epiphany;2017-01-06
+231;49;Republic Day;2016-06-02
+269;88;Christmas Day;2017-12-25
+280;88;Epiphany;2017-01-06
+297;59;Whit Monday;2017-06-05
+309;59;New year;2016-01-01
+363;91;Labour Day;2015-05-01
+377;60;Bastille Day;2017-07-14
+381;60;Easter Monday;2015-04-06
+392;60;Assumption of Mary to Heaven;2015-08-15
+398;60;Ascension Thursday;2015-05-14
+407;61;International Workers' Day;2015-05-01
+410;61;Liberation Day;2015-04-25
+425;61;All Saints Day;2015-11-01
+444;62;International Workers' Day;2016-05-01
+448;62;Christmas Day;2016-12-25
+460;63;Republic Day;2017-06-02
+476;63;Liberation Day;2017-04-25
+488;63;Epiphany;2016-01-06
+492;63;All Saints Day;2015-11-01
+517;64;Assumption of Mary to Heaven;2016-08-15
+541;65;Assumption of Mary to Heaven;2016-08-15
+569;66;Easter Monday;2017-04-17
+584;68;Republic Day;2015-06-02
+596;68;Liberation Day;2015-04-25
+599;68;Republic Day;2017-06-02
+602;68;New year;2017-01-01
+613;68;Christmas Day;2015-12-25
+658;86;Liberation Day;2015-04-25
+681;70;Christmas Day;2017-12-25
+683;70;All Saints Day;2016-11-01
+684;70;International Workers' Day;2017-05-01
+723;71;Republic Day;2016-06-02
+787;73;Epiphany;2016-01-06
+810;74;Liberation Day;2015-04-25
+831;74;All Saints Day;2015-11-01
+842;74;International Workers' Day;2016-05-01
+852;74;Republic Day;2014-06-02
+878;75;St Stephen's Day;2015-12-26
+921;76;Assumption of Mary to Heaven;2017-08-15
+938;77;Assumption of Mary to Heaven;2017-08-15
+977;90;St Stephen's Day;2015-12-26
+978;90;Christmas Day;2015-12-25
+980;90;Republic Day;2014-06-02
+1005;90;St Stephen's Day;2014-12-26
+1050;87;Christmas Day;2014-12-25
+1062;1;Republic Day;2015-06-02
+1068;1;All Saints Day;2016-11-01
+1069;1;Epiphany;2017-01-06
+1084;2;Easter Monday;2013-04-01
+1126;3;Christmas Day;2017-12-25
+1143;4;Immaculate Conception;2016-12-08
+1157;4;Epiphany;2016-01-06
+1161;4;Easter Monday;2016-03-28
+1182;81;Christmas Day;2014-12-25
+1202;81;Republic Day;2016-06-02
+1242;5;Epiphany;2017-01-06
+1269;6;New year;2016-01-01
+1294;83;Liberation Day;2014-04-25
+1299;83;Assumption of Mary to Heaven;2015-08-15
+1320;79;Immaculate Conception;2014-12-08
+1330;79;Republic Day;2017-06-02
+1388;8;All Saints Day;2016-11-01
+1392;8;Liberation Day;2014-04-25
+1401;8;All Saints Day;2015-11-01
+1403;9;Easter Monday;2016-03-28
+1408;9;Republic Day;2014-06-02
+1426;9;New year;2014-01-01
+1432;9;Liberation Day;2015-04-25
+1436;10;International Workers' Day;2015-05-01
+1450;10;New year;2014-01-01
+1453;10;Liberation Day;2014-04-25
+1457;10;Immaculate Conception;2017-12-08
+1466;10;Epiphany;2017-01-06
+1490;12;All Saints Day;2017-11-01
+1495;12;Easter Monday;2016-03-28
+1509;12;Immaculate Conception;2017-12-08
+1515;12;Christmas Day;2016-12-25
+1531;13;All Saints Day;2015-11-01
+1536;13;Easter Monday;2014-04-21
+1561;13;Easter Monday;2016-03-28
+1570;14;All Saints Day;2015-11-01
+1578;14;Assumption of Mary to Heaven;2016-08-15
+1591;14;Easter Monday;2015-04-06
+1599;14;All Saints Day;2016-11-01
+1643;15;New year;2016-01-01
+1660;16;International Workers' Day;2015-05-01
+1677;16;St Stephen's Day;2016-12-26
+1758;18;Republic Day;2016-06-02
+1762;18;New year;2015-01-01
+1807;84;St Stephen's Day;2016-12-26
+1816;84;International Workers' Day;2017-05-01
+1825;84;International Workers' Day;2016-05-01
+1832;84;All Saints Day;2014-11-01
+1839;84;Republic Day;2017-06-02
+1841;84;New year;2014-01-01
+1861;80;Assumption of Mary to Heaven;2015-08-15
+1882;21;Immaculate Conception;2016-12-08
+1885;21;Easter Monday;2016-03-28
+1898;23;Assumption of Mary to Heaven;2016-08-15
+1899;23;Christmas Day;2016-12-25
+1903;23;Epiphany;2016-01-06
+1911;23;Easter Monday;2017-04-17
+1938;24;New year;2016-01-01
+1968;85;Immaculate Conception;2017-12-08
+1969;85;Easter Monday;2016-03-28
+1976;85;Republic Day;2017-06-02
+1981;85;All Saints Day;2017-11-01
+2006;26;Epiphany;2017-01-06
+2008;27;Assumption of Mary to Heaven;2016-08-15
+2009;27;All Saints Day;2016-11-01
+2107;29;Day of reconcilation;2016-12-16
+2133;30;Youth Day;2014-06-16
+2146;30;Workers Day;2016-05-01
+2160;31;New year;2015-01-01
+2161;31;Boxing Day;2016-12-26
+2165;31;Boxing Day;2015-12-26
+2171;31;Human Rights Day;2016-03-21
+2185;31;Freedom Day;2014-04-27
+2210;32;Good Friday;2015-04-03
+2219;32;Easter Monday;2015-04-06
+2229;32;Local Elections;2016-08-03
+2247;32;Easter Monday;2014-04-21
+2262;33;Workers Day substitute;2016-05-02
+2265;33;Local Elections;2016-08-03
+2277;33;Christmas Day;2016-12-25
+2303;35;New year;2017-01-01
+2349;35;Family Day;2015-04-03
+2375;37;International Workers' Day;2016-05-01
+2390;38;Assumption of Mary to Heaven;2016-08-15
+2396;38;International Workers' Day;2017-05-01
+2422;39;New year;2016-01-01
+2431;39;International Workers' Day;2015-05-01
+2438;39;International Workers' Day;2016-05-01
+2446;40;All Saints Day;2016-11-01
+2460;40;Assumption of Mary to Heaven;2016-08-15
+2472;41;Christmas Day;2016-12-25
+2501;43;Fiesta nacional de España;2015-10-12
+2510;43;Día de la Constitución Española;2015-12-06
+2516;43;Día del trabajador;2016-05-01
+2536;44;Christmas Day;2014-12-25
+2553;44;Day of the Establishment of the Slovak Republic;2014-01-01
+2575;44;Liberation Day;2014-05-08
+2593;44;St. Stephen's Day (The Second Christmas Day);2017-12-26
+2608;45;Epiphany;2017-01-06
+2617;45;St Stephen's Day;2016-12-26
+2691;51;New year;2016-01-01
+2697;51;National Holiday;2017-08-01
+2707;51;Easter Sunday;2015-04-05
+2721;52;Assumption of Mary to Heaven;2016-08-15
+2722;52;New year;2015-01-01
+2725;52;Easter Monday;2015-04-06
+2731;52;Easter Monday;2016-03-28
+2733;52;Liberation Day;2016-04-25
+2764;54;Immaculate Conception;2016-12-08
+2766;54;All Saints Day;2015-11-01
+2774;54;St Stephen's Day;2017-12-26
+2780;54;Christmas Day;2014-12-25
+2786;54;Epiphany;2015-01-06
+2788;55;Epiphany;2016-01-06
+2803;55;Immaculate Conception;2015-12-08
+2808;55;Easter Monday;2015-04-06
+2812;55;Immaculate Conception;2017-12-08
+2822;55;Epiphany;2014-01-06
+2826;55;New year;2016-01-01
+2827;55;All Saints Day;2015-11-01
+2848;57;Immaculate Conception;2014-12-08
+2850;57;Easter Monday;2016-03-28
+2854;57;Republic Day;2015-06-02
+2864;57;Christmas Day;2015-12-25
+2892;89;New year;2016-01-01
+2903;89;Republic Day;2017-06-02
+2915;58;New year;2013-01-01
+2930;58;Berchtold's Day;2012-01-02
+2933;58;Easter Sunday;2014-04-20
+2959;58;Boxing Day;2015-12-26
+2977;58;National Holiday;2013-08-01
+2980;58;Boxing Day;2014-12-26
+2990;58;Boxing Day;2016-12-26
+3000;58;Easter Sunday;2010-04-04
+3012;58;Berchtold's Day;2009-01-02
+3033;67;Easter Monday;2016-03-28
+3052;7;Assumption of Mary to Heaven;2016-08-15
+3077;7;Liberation Day;2017-04-25
+3101;11;Christmas Day;2014-12-25
+3115;11;Christmas Day;2017-12-25
+3124;11;Christmas Day;2016-12-25
+3131;11;Epiphany;2016-01-06
+3141;22;All Saints Day;2016-11-01
+3146;22;All Saints Day;2017-11-01
+3160;82;Easter Monday;2016-03-28
+3208;53;New year;2016-01-01
+3234;56;Christmas Day;2016-12-25
+3262;56;Armistice Day;2016-11-11
+3270;36;St Stephen's Day;2016-12-26
+3285;36;Immaculate Conception;2017-12-08
+4;20;Confederate Heroes Day;2016-01-19
+10;20;Thanksgiving Day;2017-11-23
+16;20;Day After Christmas;2017-12-26
+29;20;Thanksgiving Friday;2016-11-25
+48;20;New year;2016-01-01
+49;20;Emancipation Day in Texas (Observed);2016-06-20
+52;20;Lyndon B. Jonhson Day;2015-08-27
+54;20;Texas Independence Day;2014-03-02
+69;20;Christmas Day;2014-12-25
+75;20;Texas Independence Day;2017-03-02
+89;34;Independence Day;2016-07-04
+92;34;Veterans Day;2016-11-11
+96;34;Birthday of Martin Luther King, Jr.;2015-01-19
+100;34;Christmas Eve (Observed);2017-12-26
+101;34;New year;2015-01-01
+113;34;Independence Day (Observed);2015-07-03
+124;42;Armistice Day;2016-11-11
+131;42;Armistice Day;2014-11-11
+156;42;Whit Monday;2017-06-05
+176;48;Armistice of 1918;2017-11-11
+211;49;Immaculate Conception;2015-12-08
+214;49;Christmas Day;2014-12-25
+276;88;Christmas Day;2016-12-25
+290;88;Liberation Day;2014-04-25
+293;88;Republic Day;2015-06-02
+314;59;Ascension Thursday;2017-05-25
+320;59;All Saints Day;2017-11-01
+326;59;Victory in Europe Day;2016-05-08
+336;59;Whit Monday;2015-05-25
+341;91;Bastille Day;2015-07-14
+345;91;Labour Day;2016-05-01
+374;60;Victory in Europe Day;2016-05-08
+388;60;New year;2016-01-01
+420;61;New year;2015-01-01
+459;62;Christmas Day;2017-12-25
+483;63;Easter Monday;2016-03-28
+495;64;New year;2016-01-01
+512;64;International Workers' Day;2015-05-01
+524;64;Republic Day;2017-06-02
+543;65;Assumption of Mary to Heaven;2017-08-15
+568;66;St Stephen's Day;2016-12-26
+577;66;Assumption of Mary to Heaven;2017-08-15
+586;68;Epiphany;2015-01-06
+614;69;Immaculate Conception;2016-12-08
+616;69;Liberation Day;2015-04-25
+623;69;New year;2017-01-01
+630;69;Easter Monday;2017-04-17
+641;69;Assumption of Mary to Heaven;2016-08-15
+651;86;Immaculate Conception;2015-12-08
+654;86;Easter Monday;2016-03-28
+665;86;Easter Monday;2015-04-06
+680;70;Liberation Day;2017-04-25
+696;70;All Saints Day;2017-11-01
+711;70;International Workers' Day;2015-05-01
+746;72;Good Friday;2015-04-03
+751;72;Easter Sunday;2014-04-20
+752;72;Easter Sunday;2015-04-05
+760;72;Dia de Portugal;2014-06-10
+799;73;Immaculate Conception;2016-12-08
+805;73;International Workers' Day;2017-05-01
+849;74;New year;2014-01-01
+861;75;Immaculate Conception;2017-12-08
+864;75;Liberation Day;2017-04-25
+867;75;Liberation Day;2015-04-25
+876;75;International Workers' Day;2016-05-01
+929;76;All Saints Day;2017-11-01
+930;77;International Workers' Day;2017-05-01
+1012;87;Christmas Day;2017-12-25
+1017;87;Epiphany;2014-01-06
+1058;1;Republic Day;2016-06-02
+1076;1;Easter Monday;2015-04-06
+1105;2;Epiphany;2014-01-06
+1112;3;Assumption of Mary to Heaven;2016-08-15
+1149;4;St Stephen's Day;2017-12-26
+1164;4;Liberation Day;2017-04-25
+1181;81;Easter Monday;2016-03-28
+1192;81;New year;2014-01-01
+1197;81;St Stephen's Day;2015-12-26
+1222;5;New year;2017-01-01
+1235;5;Epiphany;2014-01-06
+1271;6;All Saints Day;2016-11-01
+1336;79;Republic Day;2015-06-02
+1337;79;All Saints Day;2015-11-01
+1341;79;Assumption of Mary to Heaven;2017-08-15
+1342;79;Christmas Day;2017-12-25
+1348;79;Liberation Day;2017-04-25
+1352;79;St Stephen's Day;2014-12-26
+1377;8;Immaculate Conception;2017-12-08
+1379;8;Liberation Day;2017-04-25
+1397;8;Republic Day;2017-06-02
+1415;9;All Saints Day;2014-11-01
+1440;10;Liberation Day;2016-04-25
+1458;10;Epiphany;2014-01-06
+1472;10;All Saints Day;2017-11-01
+1501;12;St Stephen's Day;2017-12-26
+1510;12;International Workers' Day;2014-05-01
+1527;13;Republic Day;2015-06-02
+1548;13;Assumption of Mary to Heaven;2014-08-15
+1564;13;International Workers' Day;2017-05-01
+1598;14;Immaculate Conception;2017-12-08
+1603;78;All Saints Day;2016-11-01
+1614;78;International Workers' Day;2017-05-01
+1618;78;New year;2016-01-01
+1630;15;Epiphany;2015-01-06
+1633;15;Easter Monday;2017-04-17
+1647;15;Easter Monday;2016-03-28
+1654;15;Immaculate Conception;2017-12-08
+1675;16;International Workers' Day;2016-05-01
+1733;18;Republic Day;2017-06-02
+1734;18;Liberation Day;2016-04-25
+1765;18;Assumption of Mary to Heaven;2015-08-15
+1778;19;All Saints Day;2017-11-01
+1784;19;Christmas Day;2017-12-25
+1785;19;Easter Monday;2017-04-17
+1788;19;Epiphany;2015-01-06
+1809;84;Christmas Day;2017-12-25
+1810;84;Liberation Day;2014-04-25
+1817;84;New year;2016-01-01
+1829;84;Republic Day;2014-06-02
+1845;80;New year;2015-01-01
+1854;80;Epiphany;2017-01-06
+1856;80;Immaculate Conception;2016-12-08
+1865;80;Epiphany;2015-01-06
+1868;80;Liberation Day;2016-04-25
+1872;80;Christmas Day;2015-12-25
+1895;21;St Stephen's Day;2017-12-26
+1914;23;All Saints Day;2017-11-01
+1924;24;Assumption of Mary to Heaven;2017-08-15
+1934;24;Christmas Day;2017-12-25
+1935;24;Assumption of Mary to Heaven;2016-08-15
+1936;24;St Stephen's Day;2016-12-26
+1944;25;Liberation Day;2017-04-25
+1955;25;Christmas Day;2017-12-25
+1956;25;All Saints Day;2016-11-01
+1963;25;International Workers' Day;2017-05-01
+1986;26;Christmas Day;2016-12-25
+1999;26;Liberation Day;2016-04-25
+2005;26;St Stephen's Day;2017-12-26
+2016;27;Republic Day;2016-06-02
+2035;28;Liberation Day;2016-04-25
+2042;28;Easter Monday;2017-04-17
+2050;28;Epiphany;2017-01-06
+2103;29;Christmas Day substitute;2016-12-26
+2112;30;New year;2015-01-01
+2128;30;Heritage Day;2016-09-24
+2152;30;Christmas Day;2016-12-25
+2157;30;New year;2014-01-01
+2162;31;Youth Day;2014-06-16
+2177;31;New year;2016-01-01
+2227;32;Freedom Day;2015-04-27
+2254;32;Day of good will;2015-12-26
+2264;33;National Elections;2014-05-07
+2276;33;Day of good will;2014-12-26
+2278;33;Boxing Day;2016-12-26
+2293;33;Freedom Day;2016-04-27
+2301;33;Freedom Day substitute;2014-04-28
+2311;35;National Women Day substitute;2015-08-10
+2347;35;Family Day;2014-04-18
+2352;35;Good Friday;2015-04-03
+2377;37;All Saints Day;2016-11-01
+2379;37;New year;2016-01-01
+2461;40;Christmas Day;2016-12-25
+2484;41;Easter Monday;2017-04-17
+2494;43;All Saints Day;2015-11-01
+2515;43;All Saints Day;2014-11-01
+2546;44;Slovak National Uprising anniversary;2013-08-29
+2554;44;Liberation Day;2016-05-08
+2555;44;All Saints Day;2017-11-01
+2565;44;Struggle for Freedom and Democracy Day;2015-11-17
+2571;44;New year;2017-01-01
+2584;44;Day of the Establishment of the Slovak Republic;2016-01-01
+2595;44;Christmas Day;2015-12-25
+2616;45;New year;2016-01-01
+2626;46;Epiphany;2017-01-06
+2636;46;Liberation Day;2016-04-25
+2644;50;All Saints Day;2017-11-01
+2662;50;New year;2015-01-01
+2665;50;Victory in Europe Day;2015-05-08
+2675;51;Ascension Thursday;2016-05-05
+2680;51;Boxing Day;2016-12-26
+2681;51;Easter Sunday;2017-04-16
+2682;51;Berchtold's Day;2015-01-02
+2685;51;National Holiday;2016-08-01
+2692;51;Good Friday;2017-04-14
+2699;51;Good Friday;2015-04-03
+2710;51;Whit Monday;2015-05-25
+2712;52;New year;2017-01-01
+2714;52;Epiphany;2015-01-06
+2728;52;All Saints Day;2017-11-01
+2734;52;St Stephen's Day;2017-12-26
+2750;54;St Stephen's Day;2015-12-26
+2760;54;Immaculate Conception;2015-12-08
+2817;55;International Workers' Day;2016-05-01
+2823;55;Assumption of Mary to Heaven;2016-08-15
+2825;55;Christmas Day;2014-12-25
+2830;55;Republic Day;2016-06-02
+2832;57;Epiphany;2016-01-06
+2842;57;Christmas Day;2016-12-25
+2924;58;Whit Sunday;2010-05-23
+2950;58;Berchtold's Day;2017-01-02
+2969;58;Ascension Thursday;2009-05-21
+2978;58;Boxing Day;2013-12-26
+2998;58;Good Friday;2017-04-14
+3003;58;Easter Monday;2011-04-25
+3005;58;Berchtold's Day;2014-01-02
+3020;67;Epiphany;2017-01-06
+3032;67;Christmas Day;2015-12-25
+3074;7;Immaculate Conception;2014-12-08
+3075;7;All Saints Day;2015-11-01
+3078;7;Epiphany;2014-01-06
+3081;7;New year;2016-01-01
+3097;11;Republic Day;2014-06-02
+3100;11;Immaculate Conception;2017-12-08
+3113;11;International Workers' Day;2016-05-01
+3119;11;New year;2015-01-01
+3123;11;All Saints Day;2015-11-01
+3148;22;Republic Day;2016-06-02
+3163;82;Easter Sunday;2016-03-27
+3170;82;Christmas Day;2016-12-25
+3219;53;Ascension Thursday;2017-05-25
+3251;56;New year;2015-01-01
+0;20;Christmas Day;2016-12-25
+14;20;New year;2017-01-01
+28;20;Thanksgiving Friday;2015-11-27
+33;20;Birthday of Martin Luther King, Jr.;2015-01-19
+72;20;Emancipation Day in Texas;2016-06-19
+73;20;Christmas Day (Observed);2016-12-26
+79;20;Veterans Day;2016-11-11
+86;34;Christmas Day;2017-12-25
+138;42;Victory in Europe Day;2014-05-08
+140;42;Easter Monday;2015-04-06
+145;42;All Saints Day;2015-11-01
+146;42;Ascension Thursday;2016-05-05
+153;42;Christmas Day;2015-12-25
+181;48;Christmas Day;2015-12-25
+183;48;Ascension Thursday;2017-05-25
+187;48;Ascension Thursday;2014-05-29
+228;49;New year;2015-01-01
+247;49;Republic Day;2017-06-02
+251;88;Republic Day;2014-06-02
+259;88;St Stephen's Day;2014-12-26
+287;88;International Workers' Day;2017-05-01
+307;59;New year;2014-01-01
+312;59;Labour Day;2016-05-01
+313;59;All Saints Day;2016-11-01
+359;91;Assumption of Mary to Heaven;2015-08-15
+364;91;Easter Monday;2017-04-17
+368;91;Whit Monday;2017-06-05
+399;60;Assumption of Mary to Heaven;2016-08-15
+415;61;Assumption of Mary to Heaven;2016-08-15
+427;61;New year;2016-01-01
+428;61;Christmas Day;2016-12-25
+434;61;Republic Day;2015-06-02
+441;62;Easter Monday;2016-03-28
+461;63;All Saints Day;2017-11-01
+515;64;Epiphany;2016-01-06
+528;65;International Workers' Day;2015-05-01
+551;65;All Saints Day;2016-11-01
+582;68;All Saints Day;2016-11-01
+626;69;International Workers' Day;2015-05-01
+664;86;All Saints Day;2017-11-01
+687;70;Immaculate Conception;2016-12-08
+689;70;Easter Monday;2016-03-28
+706;70;All Saints Day;2015-11-01
+709;70;New year;2017-01-01
+714;71;International Workers' Day;2016-05-01
+719;71;Epiphany;2016-01-06
+748;72;Entrudo;2014-03-04
+758;72;Entrudo;2015-02-17
+780;73;International Workers' Day;2015-05-01
+791;73;St Stephen's Day;2017-12-26
+808;73;New year;2015-01-01
+816;74;Easter Monday;2015-04-06
+826;74;Epiphany;2015-01-06
+918;76;Epiphany;2015-01-06
+935;77;International Workers' Day;2016-05-01
+955;77;All Saints Day;2015-11-01
+990;90;Liberation Day;2015-04-25
+998;90;Liberation Day;2017-04-25
+1007;87;Assumption of Mary to Heaven;2017-08-15
+1009;87;International Workers' Day;2015-05-01
+1015;87;Christmas Day;2015-12-25
+1028;87;Republic Day;2016-06-02
+1029;87;All Saints Day;2016-11-01
+1030;87;St Stephen's Day;2014-12-26
+1056;1;Assumption of Mary to Heaven;2015-08-15
+1080;1;Immaculate Conception;2016-12-08
+1085;2;International Workers' Day;2013-05-01
+1086;2;Republic Day;2013-06-02
+1096;2;Assumption of Mary to Heaven;2013-08-15
+1144;4;Christmas Day;2017-12-25
+1163;4;All Saints Day;2016-11-01
+1165;4;Republic Day;2017-06-02
+1274;6;All Saints Day;2015-11-01
+1275;6;Christmas Day;2016-12-25
+1276;6;St Stephen's Day;2016-12-26
+1291;83;Easter Monday;2016-03-28
+1293;83;Easter Monday;2015-04-06
+1364;8;Easter Monday;2015-04-06
+1372;8;Immaculate Conception;2016-12-08
+1393;8;Immaculate Conception;2014-12-08
+1394;8;New year;2015-01-01
+1402;8;Easter Monday;2014-04-21
+1441;10;Immaculate Conception;2016-12-08
+1481;12;St Stephen's Day;2016-12-26
+1505;12;St Stephen's Day;2015-12-26
+1634;15;Christmas Day;2017-12-25
+1649;15;Epiphany;2017-01-06
+1651;15;International Workers' Day;2016-05-01
+1658;16;Assumption of Mary to Heaven;2015-08-15
+1700;17;St Stephen's Day;2014-12-26
+1708;17;Christmas Day;2015-12-25
+1726;17;Epiphany;2014-01-06
+1757;18;Easter Monday;2016-03-28
+1781;19;New year;2017-01-01
+1801;84;Liberation Day;2017-04-25
+1814;84;St Stephen's Day;2014-12-26
+1826;84;New year;2017-01-01
+1846;80;Liberation Day;2015-04-25
+1853;80;New year;2016-01-01
+1869;80;International Workers' Day;2017-05-01
+1920;24;Liberation Day;2017-04-25
+1943;25;New year;2017-01-01
+2012;27;International Workers' Day;2017-05-01
+2017;27;Immaculate Conception;2016-12-08
+2018;27;St Stephen's Day;2016-12-26
+2021;27;Epiphany;2016-01-06
+2023;27;New year;2016-01-01
+2037;28;Epiphany;2015-01-06
+2051;28;Easter Monday;2015-04-06
+2057;28;Epiphany;2016-01-06
+2122;30;National Women Day;2016-08-09
+2137;30;Local Elections;2016-08-03
+2138;30;Easter Monday;2014-04-21
+2139;30;Workers Day;2014-05-01
+2141;30;New year;2016-01-01
+2192;31;Workers Day;2016-05-01
+2199;31;Day of reconcilation;2016-12-16
+2215;32;Christmas Day substitute;2016-12-26
+2258;33;Workers Day;2014-05-01
+2281;33;Day of reconcilation;2016-12-16
+2298;33;New year;2015-01-01
+2318;35;Youth Day;2017-06-16
+2328;35;Easter Monday;2016-03-28
+2357;35;Human Rights Day;2014-03-21
+2430;39;Easter Monday;2015-04-06
+2486;41;St Stephen's Day;2017-12-26
+2487;41;Liberation Day;2017-04-25
+2496;43;Good Friday;2016-03-25
+2505;43;Fiesta nacional de España;2014-10-12
+2508;43;Fiesta nacional de España;2016-10-12
+2520;44;Day of the Constitution of the Slovak Republic;2017-09-01
+2523;44;Labour Day;2016-05-01
+2528;44;All Saints Day;2016-11-01
+2537;44;Epiphany;2015-01-06
+2614;45;Christmas Day;2017-12-25
+2615;45;Christmas Day;2016-12-25
+2620;46;International Workers' Day;2016-05-01
+2623;46;Assumption of Mary to Heaven;2017-08-15
+2638;46;International Workers' Day;2017-05-01
+2643;50;Victory in Europe Day;2017-05-08
+2648;50;Armistice Day;2016-11-11
+2674;50;Easter Monday;2016-03-28
+2676;51;Berchtold's Day;2017-01-02
+2683;51;Berchtold's Day;2016-01-02
+2700;51;Christmas Day;2016-12-25
+2701;51;Good Friday;2016-03-25
+2713;52;Epiphany;2017-01-06
+2718;52;Immaculate Conception;2017-12-08
+2729;52;All Saints Day;2015-11-01
+2738;52;All Saints Day;2016-11-01
+2745;54;International Workers' Day;2016-05-01
+2746;54;Epiphany;2014-01-06
+2755;54;Christmas Day;2015-12-25
+2783;54;Liberation Day;2014-04-25
+2800;55;New year;2014-01-01
+2804;55;International Workers' Day;2014-05-01
+2809;55;Easter Monday;2017-04-17
+2813;55;Epiphany;2015-01-06
+2866;57;All Saints Day;2017-11-01
+2880;89;Assumption of Mary to Heaven;2016-08-15
+2902;89;All Saints Day;2016-11-01
+2904;89;Easter Monday;2015-04-06
+2971;58;New year;2012-01-01
+2982;58;Easter Sunday;2017-04-16
+2991;58;New year;2017-01-01
+3065;7;St Stephen's Day;2016-12-26
+3066;7;Assumption of Mary to Heaven;2017-08-15
+3076;7;Republic Day;2017-06-02
+3091;7;All Saints Day;2016-11-01
+3092;7;St Stephen's Day;2014-12-26
+3104;11;Easter Monday;2016-03-28
+3129;11;Immaculate Conception;2014-12-08
+3147;22;Liberation Day;2016-04-25
+3158;22;Assumption of Mary to Heaven;2017-08-15
+3162;82;National Holiday;2017-08-01
+3164;82;Whit Sunday;2016-05-15
+3165;82;New year;2016-01-01
+3179;82;Labour Day;2016-05-01
+3189;47;Liberation Day;2016-04-25
+3217;53;Easter Monday;2017-04-17
+3221;53;Christmas Day;2017-12-25
+3235;56;Whit Monday;2015-05-25
+3258;56;New year;2017-01-01
+3273;36;Epiphany;2017-01-06
+5;20;Washington's Birthday;2016-02-15
+22;20;Independence Day (Observed);2015-07-03
+31;20;Emancipation Day in Texas;2017-06-19
+62;20;Thanksgiving Day;2015-11-26
+88;34;Good Friday;2016-03-25
+102;34;Washington's Birthday;2017-02-20
+108;34;Christmas Day (Observed);2016-12-26
+133;42;Ascension Thursday;2017-05-25
+136;42;Christmas Day;2016-12-25
+159;42;Labour Day;2017-05-01
+182;48;All Saints Day;2016-11-01
+186;48;Christmas Day;2017-12-25
+205;48;New year;2014-01-01
+224;49;Republic Day;2014-06-02
+240;49;All Saints Day;2014-11-01
+296;59;Whit Monday;2014-06-09
+304;59;Armistice Day;2016-11-11
+310;59;All Saints Day;2014-11-01
+319;59;New year;2017-01-01
+321;59;Ascension Thursday;2015-05-14
+323;59;New year;2015-01-01
+334;59;Christmas Day;2014-12-25
+355;91;New year;2015-01-01
+375;60;New year;2015-01-01
+406;61;International Workers' Day;2017-05-01
+411;61;Assumption of Mary to Heaven;2017-08-15
+412;61;Immaculate Conception;2017-12-08
+416;61;New year;2017-01-01
+426;61;Epiphany;2015-01-06
+464;63;New year;2015-01-01
+484;63;Epiphany;2017-01-06
+505;64;Republic Day;2015-06-02
+514;64;St Stephen's Day;2015-12-26
+529;65;Liberation Day;2016-04-25
+537;65;Republic Day;2016-06-02
+545;65;New year;2016-01-01
+547;65;Immaculate Conception;2017-12-08
+549;65;St Stephen's Day;2015-12-26
+553;65;Epiphany;2015-01-06
+576;66;Epiphany;2017-01-06
+594;68;St Stephen's Day;2017-12-26
+609;68;Christmas Day;2016-12-25
+617;69;New year;2016-01-01
+635;69;International Workers' Day;2017-05-01
+675;86;Republic Day;2015-06-02
+692;70;Epiphany;2015-01-06
+716;71;Immaculate Conception;2017-12-08
+756;72;New year;2014-01-01
+764;72;Imaculada Conceição;2015-12-08
+771;72;Dia do Trabalhador;2015-05-01
+775;72;Good Friday;2014-04-18
+792;73;Republic Day;2016-06-02
+817;74;Liberation Day;2014-04-25
+820;74;Christmas Day;2015-12-25
+888;75;All Saints Day;2015-11-01
+896;75;New year;2015-01-01
+906;76;International Workers' Day;2016-05-01
+916;76;New year;2015-01-01
+931;77;Christmas Day;2015-12-25
+979;90;Immaculate Conception;2017-12-08
+982;90;Epiphany;2016-01-06
+984;90;Epiphany;2017-01-06
+989;90;New year;2017-01-01
+996;90;Assumption of Mary to Heaven;2017-08-15
+1008;87;Republic Day;2014-06-02
+1035;87;Easter Monday;2014-04-21
+1045;87;Immaculate Conception;2014-12-08
+1046;87;Liberation Day;2015-04-25
+1047;87;Epiphany;2016-01-06
+1054;1;Assumption of Mary to Heaven;2016-08-15
+1079;1;Liberation Day;2016-04-25
+1089;2;Easter Monday;2014-04-21
+1091;2;Liberation Day;2013-04-25
+1094;2;Immaculate Conception;2013-12-08
+1113;3;Christmas Day;2016-12-25
+1130;3;Christmas Day;2015-12-25
+1132;3;Easter Monday;2017-04-17
+1133;3;Epiphany;2015-01-06
+1180;81;Immaculate Conception;2015-12-08
+1194;81;Assumption of Mary to Heaven;2014-08-15
+1241;5;St Stephen's Day;2016-12-26
+1250;6;Assumption of Mary to Heaven;2015-08-15
+1253;6;Easter Monday;2016-03-28
+1262;6;International Workers' Day;2015-05-01
+1272;6;Epiphany;2015-01-06
+1284;83;International Workers' Day;2014-05-01
+1313;83;Assumption of Mary to Heaven;2014-08-15
+1329;79;Liberation Day;2016-04-25
+1353;79;Christmas Day;2015-12-25
+1357;79;International Workers' Day;2014-05-01
+1386;8;New year;2017-01-01
+1390;8;Assumption of Mary to Heaven;2017-08-15
+1391;8;All Saints Day;2017-11-01
+1413;9;St Stephen's Day;2015-12-26
+1434;9;New year;2016-01-01
+1460;10;Easter Monday;2015-04-06
+1488;12;International Workers' Day;2015-05-01
+1502;12;New year;2015-01-01
+1513;12;Republic Day;2014-06-02
+1519;12;Epiphany;2014-01-06
+1528;13;St Stephen's Day;2014-12-26
+1533;13;Christmas Day;2016-12-25
+1543;13;St Stephen's Day;2017-12-26
+1549;13;All Saints Day;2014-11-01
+1553;13;Liberation Day;2017-04-25
+1554;13;New year;2014-01-01
+1560;13;Christmas Day;2015-12-25
+1609;78;Easter Monday;2017-04-17
+1615;78;Immaculate Conception;2017-12-08
+1659;16;New year;2016-01-01
+1678;16;All Saints Day;2017-11-01
+1685;16;Immaculate Conception;2016-12-08
+1695;17;Liberation Day;2017-04-25
+1697;17;Liberation Day;2014-04-25
+1705;17;Republic Day;2017-06-02
+1756;18;Republic Day;2015-06-02
+1791;19;International Workers' Day;2017-05-01
+1799;84;Christmas Day;2016-12-25
+1815;84;International Workers' Day;2015-05-01
+1820;84;New year;2015-01-01
+1837;84;Easter Monday;2014-04-21
+1838;84;Assumption of Mary to Heaven;2015-08-15
+1889;21;Assumption of Mary to Heaven;2016-08-15
+1893;21;St Stephen's Day;2016-12-26
+1896;21;Epiphany;2017-01-06
+1901;23;International Workers' Day;2017-05-01
+1904;23;All Saints Day;2016-11-01
+1941;24;Epiphany;2017-01-06
+1972;85;St Stephen's Day;2016-12-26
+1997;26;Easter Monday;2016-03-28
+2014;27;All Saints Day;2017-11-01
+2019;27;Assumption of Mary to Heaven;2017-08-15
+2039;28;All Saints Day;2016-11-01
+2046;28;All Saints Day;2015-11-01
+2081;29;Easter Monday;2014-04-21
+2090;29;National Women Day;2014-08-09
+2093;29;Freedom Day substitute;2014-04-28
+2150;30;Day of reconcilation;2014-12-16
+2169;31;Freedom Day;2015-04-27
+2170;31;Day of good will;2015-12-26
+2203;31;Freedom Day substitute;2014-04-28
+2213;32;Day of reconcilation;2016-12-16
+2222;32;Good Friday;2016-03-25
+2250;32;Freedom Day substitute;2014-04-28
+2261;33;National Women Day substitute;2015-08-10
+2268;33;Boxing Day;2015-12-26
+2323;35;Boxing Day;2015-12-26
+2330;35;Day of good will;2016-12-26
+2370;37;Republic Day;2016-06-02
+2373;37;Republic Day;2017-06-02
+2374;37;Immaculate Conception;2017-12-08
+2387;37;Immaculate Conception;2016-12-08
+2413;39;Epiphany;2017-01-06
+2429;39;Assumption of Mary to Heaven;2017-08-15
+2448;40;Assumption of Mary to Heaven;2017-08-15
+2475;41;St Stephen's Day;2016-12-26
+2479;41;All Saints Day;2016-11-01
+2533;44;Good Friday;2016-03-25
+2558;44;Saints Cyril and Methodius Day;2015-07-05
+2562;44;St. Stephen's Day (The Second Christmas Day);2014-12-26
+2592;44;Christmas Day;2017-12-25
+2632;46;Epiphany;2016-01-06
+2637;46;Immaculate Conception;2016-12-08
+2672;50;Armistice Day;2017-11-11
+2678;51;Easter Monday;2016-03-28
+2690;51;Boxing Day;2015-12-26
+2730;52;Christmas Day;2016-12-25
+2756;54;Easter Monday;2017-04-17
+2763;54;All Saints Day;2014-11-01
+2790;55;All Saints Day;2017-11-01
+2802;55;St Stephen's Day;2017-12-26
+2833;57;Easter Monday;2014-04-21
+2836;57;New year;2016-01-01
+2844;57;New year;2014-01-01
+2858;57;Easter Monday;2015-04-06
+2863;57;All Saints Day;2014-11-01
+2876;89;International Workers' Day;2016-05-01
+2928;58;Whit Sunday;2014-06-08
+2949;58;Easter Monday;2014-04-21
+2955;58;Whit Monday;2014-06-09
+2960;58;Whit Sunday;2016-05-15
+3026;67;Assumption of Mary to Heaven;2016-08-15
+3063;7;Epiphany;2017-01-06
+3072;7;Republic Day;2016-06-02
+3083;7;International Workers' Day;2016-05-01
+3084;7;Immaculate Conception;2015-12-08
+3096;11;Epiphany;2015-01-06
+3114;11;Republic Day;2016-06-02
+3138;22;Immaculate Conception;2017-12-08
+3139;22;Christmas Day;2016-12-25
+3144;22;St Stephen's Day;2016-12-26
+3171;82;Good Friday;2017-04-14
+3176;82;National Holiday;2016-08-01
+3184;47;Assumption of Mary to Heaven;2016-08-15
+3190;47;International Workers' Day;2016-05-01
+3211;53;National Holiday;2017-10-26
+3216;53;All Saints Day;2016-11-01
+3232;56;New year;2016-01-01
+3239;56;Assumption of Mary to Heaven;2015-08-15
+3282;36;Christmas Day;2016-12-25
